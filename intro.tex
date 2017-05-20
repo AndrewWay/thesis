@@ -1,0 +1,47 @@
+\chapter{Introduction (can be a more descriptive title)}\label{ch:intro}
+\setcounter{secnumdepth}{3} \pagenumbering{arabic}
+\setcounter{page}{1} \pagestyle{myheadings}
+\markboth{}{}\markright{} \rhead{\thepage} \setcounter{page}{1}
+\pagestyle{myheadings} \pagenumbering{arabic} \rhead{\thepage}
+\setcounter{page}{1}
+
+\section{A section}
+
+Your first step in using this template should be to rename the folder and main .tex file to something involving your name.  That will help me to keep track of the various theses I'm reading!
+
+
+\subsection{A subsection about getting organized}\label{sect:org}
+
+Then start creating an outline for your thesis.  If you already have chapters written as papers, perhaps you should be using the ``MUN\_Thesis\_multiple\_bibliographies'' template.
+
+To create the outline, create the chapters and write in all of the sections, subsections, etc. Then send that file to me so that I can look it over.  This is particularly important for the introduction or background chapter.  If we agree on the scope of your thesis up front, you will save yourself time later.
+
+\subsection{Scope}
+
+The main purpose of the first section is to provide the context for your work.  What have other people done in this area, with these techniques?  What background information does a somewhat general reader (\eg\ chemist just starting a graduate program) need to know in order to appreciate and understand your work?
+
+\section{Another section}
+
+As you write your thesis, be sure to use labels and references for your tables, figures, equations, chapters, etc.  This is another important aspect of getting organized, a topic which was discussed in Section \ref{sect:org}.  Be sure to pick unique labels.  For example, ``raman'' or "afm" are probably not good labels, since you will probably have multiple figures, tables, equations, and sections which could carry those labels. Your whole thesis, including material in, for example, Appendix \ref{app:spect}, will have one common list of labels.
+
+Note the pretty quotes around raman and the not-so-pretty quotes around afm.  See the .tex file to know how to do this.
+
+\subsection{Some technical details}
+
+Pretty much all equations should be set off and numbered rather than included inline.  The Tabor coefficient, $\mu$, can be used to determine whether material deformation should be taken into account.\cite{tabor}
+%
+\begin{equation}
+\label{eqn:tabor}
+\mu = \left[ \frac{R(\Delta\gamma)^2}{E^{*2} \sigma^3} \right]^{1/3}
+\end{equation}
+%
+where $R$ is the indenter tip radius, $\Delta\gamma$ is the work of adhesion, $\sigma$ is the separation, and $E^*$ is defined as
+%
+\begin{equation}
+\label{eqn:Estar}
+\frac{1}{E^*} = \frac{1-\nu_\text{tip}^2}{E_\text{tip}} + \frac{1-\nu_\text{sample}^2}{E_\text{sample}}
+\end{equation}
+%
+$\nu_\text{tip}$ is....
+
+Note that the equations are part of a paragraph.  Check how this is done in the .tex file, by not leaving blank lines before or after the equation.  Also, note that the font used in the text for the symbols is the same as that used in the equation, and that text in the equation doesn't need to be in math mode.

@@ -1,0 +1,143 @@
+ \documentclass[12pt]{MUNThesis}
+%set MUN Thesis Guidelines margins
+\usepackage[left=3.8cm, right=2.5cm, top=3cm, bottom=3cm]{geometry}
+
+%lists package and bullet formats
+\usepackage{paralist,hyperref}
+\usepackage{bbding}
+%enhanced graphics support
+\usepackage{graphicx}
+%formatting for websites and e-mail addresses
+\usepackage{url}
+%pageheaders and footers in LaTeX2e
+\usepackage{fancyhdr}
+%footnote options
+\usepackage{footmisc}
+%algorithms
+\usepackage{algorithmic}
+%source code printer
+\usepackage{listings}
+%read/write verbatim TeX code
+\usepackage{fancyvrb}
+\usepackage{cite}
+\usepackage[acronym, toc]{glossaries}
+\makeglossaries
+	
+%might be superfluous; better math support
+\usepackage{amsmath}
+%rotating figures, tables
+\usepackage{rotating}
+%fancier tables!
+\usepackage{booktabs}
+%sci notation support
+\usepackage[separate-uncertainty = true,multi-part-units=single]{siunitx}
+%\usepackage{chapterbib}
+
+\usepackage[version=3]{mhchem}
+
+%You can add in your own shortcuts here.  I've put in some common ones I use.
+\newcommand{\eg}{\emph{e.g.}}
+\newcommand{\cm}{cm$^{-1}$}
+
+%Uncomment one or more of the following to use different scripts
+%CJK commands
+%Simplified Chinese
+%\newcommand{\zhs}[1]{\begin{CJK}{UTF8}{gbsn}#1\end{CJK}}
+%Traditional Chinese
+%\newcommand{\zht}[1]{\begin{CJK}{UTF8}{bsmi}#1\end{CJK}}
+%Japanese Kanji, Hiragana and Katakana
+%\newcommand{\nippon}[1]{\begin{CJK}{UTF8}{ipam}#1\end{CJK}}
+%Korean Hangul
+%\newfontfamily\hangul{Batang}
+%Korean Hanja
+%\newcommand{\hanja}[1]{\begin{CJK}{UTF8}{bsmi}#1\end{CJK}}
+ 
+%package conflicts - only one may be activated
+%\usepackage{arabtex}
+%\usepackage{devanagari}
+
+
+%enable endnotes - if you wish to enable endnotes, remove the % sign at the start of the following line
+%\usepackage{endnotes}
+%\let\footnote=\endnote
+
+
+
+%THIS IS WHERE YOU ENTER THE TITLE OF YOUR THESIS
+\title{THESIS TITLE - MUN thesis template using a single bibliography}
+
+%THIS IS WHERE YOU ENTER YOUR NAME
+\author{Name}
+
+%THIS IS WHERE YOU ENTER THE NAME OF YOUR DEGREE
+\deg{Master of Science}
+
+%THIS IS WHERE YOU ENTER THE NAME OF YOUR DEPARTMENT, SCHOOL, or FACULTY
+\fac{Department of Chemistry}
+
+%THIS IS WHERE YOU ENTER THE DATE YOU SUBMITTED YOUR THESIS OR DISSERTATION
+\date{Month Year}
+
+%THIS IS WHERE YOU ENTER THE YEAR OF GRADUATION 
+\copyrightyear{Year}
+
+
+%no paragraph indentation
+%\setlength\parindent{0pt}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{definition}{Definition}[section]
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{notation}{Notation}[section]
+\begin{document}
+\muntitlepage
+
+%set the hierarchical drilldown to 3
+\setcounter{secnumdepth}{3} \setcounter{tocdepth}{3}
+
+%set pagination to Roman numerals and begin at page i
+\pagenumbering{roman} \setcounter{page}{1}
+
+%include the abstract.tex file
+\input{abstract}
+
+%include the acknowledgments.tex file
+\input{acknowledgments}
+
+%%-----------Table of Contents------------------
+\renewcommand{\contentsname}{Table of Contents}
+\tableofcontents{}
+\addcontentsline{toc}{chapter}{Table of Contents}
+%%------------List of Tables----------------------
+\listoftables{}
+\addcontentsline{toc}{chapter}{List of Tables}
+%%------------List of Figures----------------------
+\listoffigures{}
+\addcontentsline{toc}{chapter}{List of Figures}
+%%------------List of Abbreviations----------------------
+%\printglossaries
+\addcontentsline{toc}{chapter}{List of Abbreviations and Symbols}
+\chapter*{List of Abbreviations and Symbols}
+\input{abbreviations}
+
+
+%change single space to double space
+\doublespacing
+%maintain Roman numerals on the previous page
+\clearpage
+%set pagination to Arabic
+\pagenumbering{arabic} 
+
+%include the other .tex files 
+\input{intro}
+\input{methods}
+\input{results}
+\appendix
+\input{extra_spectra}
+
+%%----------------Bibliography--------------------------------
+\addcontentsline{toc}{chapter}{Bibliography}
+
+\bibliographystyle{unsrt_ldw}
+\bibliography{bibliography}
+
+\end{document}
