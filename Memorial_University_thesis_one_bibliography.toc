@@ -18,6 +18,7 @@
 \contentsline {chapter}{\numberline {3}Another chapter}{6}{chapter.3}
 \contentsline {section}{\numberline {3.1}Ground State Degeneracy}{6}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Visualization of the Ground State}{11}{subsection.3.1.1}
-\contentsline {chapter}{\numberline {A}Extra spectra}{12}{appendix.A}
-\contentsline {section}{\numberline {A.1}What should go in an appendix?}{12}{section.A.1}
-\contentsline {chapter}{Bibliography}{12}{section.A.1}
+\contentsline {subsection}{\numberline {3.1.2}Planar Ground States}{15}{subsection.3.1.2}
+\contentsline {chapter}{\numberline {A}Extra spectra}{16}{appendix.A}
+\contentsline {section}{\numberline {A.1}What should go in an appendix?}{16}{section.A.1}
+\contentsline {chapter}{Bibliography}{16}{section.A.1}

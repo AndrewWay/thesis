@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.5.20)  20 MAY 2017 15:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.5.20)  20 MAY 2017 22:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1560,7 +1560,7 @@ LaTeX Warning: Citation `McGhee' on page 4 undefined on input line 11.
 [4
 
 ]
-<640px-Atomic_force_microscope_block_diagram.png, id=200, 481.8pt x 497.60907pt
+<640px-Atomic_force_microscope_block_diagram.png, id=216, 481.8pt x 497.60907pt
 >
 File: 640px-Atomic_force_microscope_block_diagram.png Graphic file (type png)
  <use 640px-Atomic_force_microscope_block_diagram.png>
@@ -1570,7 +1570,7 @@ n input line 38.
 ) (./results.tex
 [5 <./640px-Atomic_force_microscope_block_diagram.png>]
 Chapter 3.
-<img/3dfcc.png, id=208, 578.16pt x 600.2425pt>
+<img/3dfcc.png, id=224, 578.16pt x 600.2425pt>
 File: img/3dfcc.png Graphic file (type png)
  <use img/3dfcc.png>
 Package pdftex.def Info: img/3dfcc.png used on input line 7.
@@ -1580,7 +1580,7 @@ Package pdftex.def Info: img/3dfcc.png used on input line 7.
 ] [7 <./img/3dfcc.png>] [8
 
 ]
-<img/degeneracyplanefull.png, id=226, 704.6325pt x 452.69125pt>
+<img/degeneracyplanefull.png, id=242, 704.6325pt x 452.69125pt>
 File: img/degeneracyplanefull.png Graphic file (type png)
 
 <use img/degeneracyplanefull.png>
@@ -1599,7 +1599,7 @@ File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-33.def
 File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
 )
-<img/degeneracyplane.png, id=227, 777.90625pt x 485.815pt>
+<img/degeneracyplane.png, id=243, 777.90625pt x 485.815pt>
 File: img/degeneracyplane.png Graphic file (type png)
 
 <use img/degeneracyplane.png>
@@ -1607,15 +1607,65 @@ Package pdftex.def Info: img/degeneracyplane.png used on input line 57.
 (pdftex.def)             Requested size: 435.04257pt x 271.69872pt.
  [9 <./img/degeneracyplanefull.png (PNG copy)>]
 [10 <./img/degeneracyplane.png (PNG copy)>]
-<img/samplegs.png, id=237, 301.125pt x 250.9375pt>
+<img/samplegs.png, id=253, 301.125pt x 250.9375pt>
 File: img/samplegs.png Graphic file (type png)
  <use img/samplegs.png>
-Package pdftex.def Info: img/samplegs.png used on input line 68.
+Package pdftex.def Info: img/samplegs.png used on input line 67.
 (pdftex.def)             Requested size: 361.34818pt x 301.12347pt.
 
-[11
+<img/groundstatevol.png, id=254, 361.35pt x 351.3125pt>
+File: img/groundstatevol.png Graphic file (type png)
 
- <./img/samplegs.png (PNG copy)>]) (./extra_spectra.tex
+<use img/groundstatevol.png>
+Package pdftex.def Info: img/groundstatevol.png used on input line 76.
+(pdftex.def)             Requested size: 435.04257pt x 422.96127pt.
+ [11
+
+ <./img/samplegs.png (PNG copy)>] [12 <./img/groundstatevol.png (PNG copy)>]
+<img/th2-3108_phi0-27_plane.png, id=264, 341.275pt x 200.75pt>
+File: img/th2-3108_phi0-27_plane.png Graphic file (type png)
+
+<use img/th2-3108_phi0-27_plane.png>
+Package pdftex.def Info: img/th2-3108_phi0-27_plane.png used on input line 85.
+(pdftex.def)             Requested size: 341.27415pt x 200.7495pt.
+
+<img/th2-3108_phi0-27_view1.png, id=265, 301.125pt x 200.75pt>
+File: img/th2-3108_phi0-27_view1.png Graphic file (type png)
+
+<use img/th2-3108_phi0-27_view1.png>
+Package pdftex.def Info: img/th2-3108_phi0-27_view1.png used on input line 90.
+(pdftex.def)             Requested size: 174.01768pt x 116.01541pt.
+
+<img/th2-3108_phi0-27_view2.png, id=266, 301.125pt x 301.125pt>
+File: img/th2-3108_phi0-27_view2.png Graphic file (type png)
+
+<use img/th2-3108_phi0-27_view2.png>
+Package pdftex.def Info: img/th2-3108_phi0-27_view2.png used on input line 96.
+(pdftex.def)             Requested size: 108.76064pt x 108.75871pt.
+
+<img/th2-3108_phi0-27_view3.png, id=267, 301.125pt x 301.125pt>
+File: img/th2-3108_phi0-27_view3.png Graphic file (type png)
+
+<use img/th2-3108_phi0-27_view3.png>
+Package pdftex.def Info: img/th2-3108_phi0-27_view3.png used on input line 102.
+
+(pdftex.def)             Requested size: 108.76064pt x 108.75871pt.
+
+<img/th2-3108_phi0-27_view4.png, id=268, 301.125pt x 301.125pt>
+File: img/th2-3108_phi0-27_view4.png Graphic file (type png)
+
+<use img/th2-3108_phi0-27_view4.png>
+Package pdftex.def Info: img/th2-3108_phi0-27_view4.png used on input line 108.
+
+(pdftex.def)             Requested size: 108.76064pt x 108.75871pt.
+ [13
+
+ <./img/th2-3108_phi0-27_plane.png (PNG copy)>] [14 <./img/th2-3108_phi0-27_vie
+w1.png (PNG copy)> <./img/th2-3108_phi0-27_view2.png (PNG copy)> <./img/th2-310
+8_phi0-27_view3.png (PNG copy)> <./img/th2-3108_phi0-27_view4.png (PNG copy)>])
+ (./extra_spectra.tex [15
+
+]
 Appendix A.
 )
 No file Memorial_University_thesis_one_bibliography.bbl.
@@ -1625,8 +1675,7 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
-[12
-
+[16
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
@@ -1635,18 +1684,21 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
 Package rerunfilecheck Info: File `Memorial_University_thesis_one_bibliography.
 out' has not changed.
-(rerunfilecheck)             Checksum: 2F1716F6A88F138F7A438128D9E7E18F;1380.
+(rerunfilecheck)             Checksum: 025B1E6791DB0820A16FA76E9EF09C9F;1454.
 
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
  ) 
 Here is how much of TeX's memory you used:
- 30790 strings out of 494367
- 559228 string characters out of 6171616
- 647300 words of memory out of 5000000
- 33556 multiletter control sequences out of 15000+600000
+ 30834 strings out of 494367
+ 560329 string characters out of 6171616
+ 648430 words of memory out of 5000000
+ 33582 multiletter control sequences out of 15000+600000
  63362 words of font info for 50 fonts, out of 8000000 for 9000
  475 hyphenation exceptions out of 8191
  46i,13n,44p,10394b,874s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1660,11 +1712,11 @@ s/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Memorial_University_thesis_one_bibliography.pdf (20 pages, 27
-7611 bytes).
+Output written on Memorial_University_thesis_one_bibliography.pdf (24 pages, 42
+4618 bytes).
 PDF statistics:
- 303 PDF objects out of 1000 (max. 8388607)
- 262 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
- 202 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 345 PDF objects out of 1000 (max. 8388607)
+ 294 compressed objects within 3 object streams
+ 67 named destinations out of 1000 (max. 500000)
+ 240 words of extra memory for PDF output out of 10000 (max. 10000000)
 

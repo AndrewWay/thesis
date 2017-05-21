@@ -63,13 +63,64 @@ It is possible to reduce the size of this graph to 1/16 the size by showing that
 \clearpage
 
 \subsection{Visualization of the Ground State}
-\begin{center}
 \begin{figure}[ht]
 	\includegraphics[scale=1.2]{img/samplegs.png}
 	\caption{The six sublattice spins conjoined at their ends for clarity and illustration. The vector denoting <1,1,1> axis of symmetry is illustrated in black}
 	\label{fig:sampgs}
 \end{figure}
-\end{center}
 
-By generating the spin vectors described by the !!!equations!!!, a variety of spin configurations can b
+By generating the spin vectors described by the !!!equations!!!, spin configurations ranging from planar to non-planar states can be obtained. The following contour plot illustrates the volume of a parallelopiped formed by a spin configuration corresponding to a particular $\theta$ and $\phi$ on the plane of the plot. It is from this illustration that one can obtain an understanding of what choices of $\theta$ and $\phi$ result in planar states or non-planar states.
+
+
+\begin{figure}[ht]
+	\includegraphics[width=\linewidth]{img/groundstatevol.png}
+	\caption{A contour plot of volume of a parallelopiped formed by a spin configuration with respect to $\theta$ and $\phi$ }
+	\label{fig:gsvol}
+\end{figure}
 \clearpage
+
+The following plots illustrate some of the possible spin configurations that result from particular choices of $\theta$ and $\phi$. 
+
+\begin{figure}
+	\includegraphics[scale=1]{img/th2-3108_phi0-27_plane.png}
+\end{figure}
+\begin{figure}
+  \begin{minipage}[b]{0.5\linewidth}
+    \centering
+    \includegraphics[width=.8\linewidth]{img/th2-3108_phi0-27_view1.png} 
+    \caption{View 1} 
+    \vspace{4ex}
+  \end{minipage}%%
+  \begin{minipage}[b]{0.5\linewidth}
+    \centering
+    \includegraphics[width=.5\linewidth]{img/th2-3108_phi0-27_view2.png} 
+    \caption{View 2} 
+    \vspace{4ex}
+  \end{minipage} 
+  \begin{minipage}[b]{0.5\linewidth}
+    \centering
+    \includegraphics[width=.5\linewidth]{img/th2-3108_phi0-27_view3.png} 
+    \caption{View 3} 
+    \vspace{4ex}
+  \end{minipage}%% 
+  \begin{minipage}[b]{0.5\linewidth}
+    \centering
+    \includegraphics[width=.5\linewidth]{img/th2-3108_phi0-27_view4.png} 
+    \caption{View 4} 
+    \vspace{4ex}
+  \end{minipage} 
+\end{figure}
+
+\clearpage
+\subsection{Planar Ground States}
+
+The thin strip of blue that cuts into the contour plot just above the complex region consists of the set of points that give rise to parallelopipeds with the smallest volume. This corresponds to spin configurations that are planar. Elsewhere in the plane, the spin configurations are non-planar. The strip of points that give rise to planar states are described by the following polar equations:
+
+\begin{equation}
+\phi = \frac{\pi}{4}\cos{\gamma} 
+\end{equation}
+\begin{equation}
+\theta = \frac{\pi}{4}(\sin{\gamma}+2)
+\end{equation}
+
+The spin configurations that are planar can therefore be described in terms of one parameter, $\gamma$, the polar equations which determine $\theta$ and $\phi$, and the original set of equations.  
