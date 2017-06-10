@@ -3,8 +3,8 @@
 \contentsline {chapter}{Acknowledgments}{\textlatin {iii}}{chapter*.2}
 \contentsline {chapter}{Table of Contents}{\textlatin {v}}{chapter*.3}
 \contentsline {chapter}{List of Tables}{\textlatin {vi}}{chapter*.4}
-\contentsline {chapter}{List of Figures}{\textlatin {vii}}{chapter*.5}
-\contentsline {chapter}{List of Abbreviations and Symbols}{\textlatin {vii}}{chapter*.5}
+\contentsline {chapter}{List of Figures}{\textlatin {viii}}{chapter*.5}
+\contentsline {chapter}{List of Abbreviations and Symbols}{\textlatin {viii}}{chapter*.5}
 \contentsline {chapter}{\numberline {1}Introduction (can be a more descriptive title)}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}A section}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}A subsection about getting organized}{1}{subsection.1.1.1}
@@ -19,6 +19,8 @@
 \contentsline {section}{\numberline {3.1}Ground State Degeneracy}{6}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Visualization of the Ground State}{11}{subsection.3.1.1}
 \contentsline {subsection}{\numberline {3.1.2}Planar Ground States}{15}{subsection.3.1.2}
-\contentsline {chapter}{\numberline {A}Extra spectra}{16}{appendix.A}
-\contentsline {section}{\numberline {A.1}What should go in an appendix?}{16}{section.A.1}
-\contentsline {chapter}{Bibliography}{16}{section.A.1}
+\contentsline {section}{\numberline {3.2}3D Dipolar Kagome Finite T EFM Results}{16}{section.3.2}
+\contentsline {section}{\numberline {3.3}3D Dipolar Kagome Magnetic Field EFM Results}{16}{section.3.3}
+\contentsline {chapter}{\numberline {A}Extra spectra}{17}{appendix.A}
+\contentsline {section}{\numberline {A.1}What should go in an appendix?}{17}{section.A.1}
+\contentsline {chapter}{Bibliography}{17}{section.A.1}
