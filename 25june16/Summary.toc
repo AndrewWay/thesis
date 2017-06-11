@@ -1,0 +1,40 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}(001) Increasing Field, Ground State}{4}
+\contentsline {paragraph}{\relax \fontsize {12}{14}\selectfont }{4}
+\contentsline {section}{\numberline {3}(001) Decreasing Field, Ground State}{5}
+\contentsline {paragraph}{\relax \fontsize {12}{14}\selectfont }{5}
+\contentsline {section}{\numberline {4}(010) Increasing Field, Ground State}{8}
+\contentsline {paragraph}{\relax \fontsize {12}{14}\selectfont }{8}
+\contentsline {section}{\numberline {5}(010) Decreasing Field, Ground State}{9}
+\contentsline {paragraph}{\relax \fontsize {12}{14}\selectfont }{9}
+\contentsline {section}{\numberline {6}(011) Increasing Field, Ground State}{12}
+\contentsline {paragraph}{\relax \fontsize {12}{14}\selectfont }{12}
+\contentsline {section}{\numberline {7}(011) Decreasing Field, Ground State}{13}
+\contentsline {paragraph}{\relax \fontsize {12}{14}\selectfont }{13}
+\contentsline {section}{\numberline {8}(100) Increasing Field, Ground State}{16}
+\contentsline {paragraph}{\relax \fontsize {12}{14}\selectfont }{16}
+\contentsline {section}{\numberline {9}(100) Decreasing Field, Ground State}{17}
+\contentsline {paragraph}{\relax \fontsize {12}{14}\selectfont }{17}
+\contentsline {section}{\numberline {10}(100) Increasing Field, Random State}{21}
+\contentsline {section}{\numberline {11}(100) Decreasing Field, Random State}{22}
+\contentsline {section}{\numberline {12}(101) Increasing Field, Ground State}{25}
+\contentsline {paragraph}{\relax \fontsize {12}{14}\selectfont }{25}
+\contentsline {section}{\numberline {13}(101) Decreasing Field, Ground State}{26}
+\contentsline {paragraph}{\relax \fontsize {12}{14}\selectfont }{26}
+\contentsline {section}{\numberline {14}(110) Increasing Field, Ground State}{29}
+\contentsline {section}{\numberline {15}(110) Decreasing Field, Ground State}{30}
+\contentsline {section}{\numberline {16}(110) Increasing Field, Random State}{34}
+\contentsline {section}{\numberline {17}(110) Decreasing Field, Random State}{35}
+\contentsline {section}{\numberline {18}2K (111) Increasing Field, Ground State}{38}
+\contentsline {section}{\numberline {19}2K (111) Decreasing Field, Ground State}{40}
+\contentsline {section}{\numberline {20}2K (111) Increasing Field, Random State}{43}
+\contentsline {section}{\numberline {21}2K (111) Decreasing Field, Random State}{45}
+\contentsline {section}{\numberline {22}3K (111) Increasing Field, Ground State}{49}
+\contentsline {section}{\numberline {23}3K (111) Decreasing Field, Ground State}{52}
+\contentsline {section}{\numberline {24}3K (111) Increasing Field, Random State}{57}
+\contentsline {section}{\numberline {25}3K (111) Decreasing Field, Random State}{59}
+\contentsline {section}{\numberline {26}Saturation of the Lattice}{62}
+\contentsline {section}{\numberline {27}Effect of Starting State on Switching Field (111)}{63}
+\contentsline {section}{\numberline {28}Effect of Field Direction on Switching Field}{64}
+\contentsline {section}{\numberline {29}Reduction of Degeneracy By Application of Field}{66}
+\contentsline {section}{\numberline {30}Concluding Remarks}{67}

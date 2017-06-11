@@ -1,0 +1,2634 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.5.20)  11 JUN 2017 13:07
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Summary.tex
+(./Summary.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 14 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+01E02 (decimal 7682)
+   defining Unicode char U+01E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+)
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks18
+\float@box=\box26
+\@float@everytoks=\toks19
+\@floatcapt=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count92
+\lst@gtempboxa=\box28
+\lst@token=\toks20
+\lst@length=\count93
+\lst@currlwidth=\dimen113
+\lst@column=\count94
+\lst@pos=\count95
+\lst@lostspace=\dimen114
+\lst@width=\dimen115
+\lst@newlines=\count96
+\lst@lineno=\count97
+\lst@maxwidth=\dimen116
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count98
+\lst@skipnumbers=\count99
+\lst@framebox=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count100
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+) (./Summary.aux)
+\openout1 = `Summary.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen117
+\scratchbox=\box30
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen118
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks22
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count107
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 47.
+
+(./Summary.toc [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+\tf@toc=\write3
+\openout3 = `Summary.toc'.
+
+ [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 65.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 72.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 72.
+ [3
+
+]
+<HVariedData/Increasing/001Einc.png, id=20, 642.4pt x 481.8pt>
+File: HVariedData/Increasing/001Einc.png Graphic file (type png)
+
+<use HVariedData/Increasing/001Einc.png>
+Package pdftex.def Info: HVariedData/Increasing/001Einc.png used on input line 
+94.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Increasing/001Minc.png, id=21, 642.4pt x 481.8pt>
+File: HVariedData/Increasing/001Minc.png Graphic file (type png)
+
+<use HVariedData/Increasing/001Minc.png>
+Package pdftex.def Info: HVariedData/Increasing/001Minc.png used on input line 
+95.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Pictures/001Inc1.png, id=22, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/001Inc1.png Graphic file (type png)
+
+<use HVariedData/Pictures/001Inc1.png>
+Package pdftex.def Info: HVariedData/Pictures/001Inc1.png used on input line 99
+.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/001Inc106.png, id=23, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/001Inc106.png Graphic file (type png)
+
+<use HVariedData/Pictures/001Inc106.png>
+Package pdftex.def Info: HVariedData/Pictures/001Inc106.png used on input line 
+100.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/001Inc122.png, id=24, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/001Inc122.png Graphic file (type png)
+
+<use HVariedData/Pictures/001Inc122.png>
+Package pdftex.def Info: HVariedData/Pictures/001Inc122.png used on input line 
+101.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/001Inc151.png, id=25, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/001Inc151.png Graphic file (type png)
+
+<use HVariedData/Pictures/001Inc151.png>
+Package pdftex.def Info: HVariedData/Pictures/001Inc151.png used on input line 
+102.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/001Inc30S.png, id=26, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/001Inc30S.png Graphic file (type png)
+
+<use HVariedData/Pictures/001Inc30S.png>
+Package pdftex.def Info: HVariedData/Pictures/001Inc30S.png used on input line 
+103.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/001Inc35S.png, id=27, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/001Inc35S.png Graphic file (type png)
+
+<use HVariedData/Pictures/001Inc35S.png>
+Package pdftex.def Info: HVariedData/Pictures/001Inc35S.png used on input line 
+104.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+ [4
+
+ <./HVariedData/Increasing/001Einc.png> <./HVariedData/Increasing/001Minc.png> 
+<./HVariedData/Pictures/001Inc1.png (PNG copy)> <./HVariedData/Pictures/001Inc1
+06.png (PNG copy)> <./HVariedData/Pictures/001Inc122.png (PNG copy)> <./HVaried
+Data/Pictures/001Inc151.png (PNG copy)> <./HVariedData/Pictures/001Inc30S.png (
+PNG copy)> <./HVariedData/Pictures/001Inc35S.png (PNG copy)>]
+<HVariedData/Decreasing/001Edec.png, id=33, 642.4pt x 481.8pt>
+File: HVariedData/Decreasing/001Edec.png Graphic file (type png)
+
+<use HVariedData/Decreasing/001Edec.png>
+Package pdftex.def Info: HVariedData/Decreasing/001Edec.png used on input line 
+119.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Decreasing/001Mdec.png, id=34, 642.4pt x 481.8pt>
+File: HVariedData/Decreasing/001Mdec.png Graphic file (type png)
+
+<use HVariedData/Decreasing/001Mdec.png>
+Package pdftex.def Info: HVariedData/Decreasing/001Mdec.png used on input line 
+120.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Pictures/001Dec1.png, id=35, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/001Dec1.png Graphic file (type png)
+
+<use HVariedData/Pictures/001Dec1.png>
+Package pdftex.def Info: HVariedData/Pictures/001Dec1.png used on input line 12
+4.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
+
+<HVariedData/Pictures/001Dec84.png, id=36, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/001Dec84.png Graphic file (type png)
+
+<use HVariedData/Pictures/001Dec84.png>
+Package pdftex.def Info: HVariedData/Pictures/001Dec84.png used on input line 1
+25.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
+
+<HVariedData/Pictures/001Dec86.png, id=37, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/001Dec86.png Graphic file (type png)
+
+<use HVariedData/Pictures/001Dec86.png>
+Package pdftex.def Info: HVariedData/Pictures/001Dec86.png used on input line 1
+26.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
+
+<HVariedData/Pictures/001Dec216.png, id=38, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/001Dec216.png Graphic file (type png)
+
+<use HVariedData/Pictures/001Dec216.png>
+Package pdftex.def Info: HVariedData/Pictures/001Dec216.png used on input line 
+127.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
+
+<HVariedData/Pictures/001Incdp.png, id=39, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/001Incdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/001Incdp.png>
+Package pdftex.def Info: HVariedData/Pictures/001Incdp.png used on input line 1
+33.
+(pdftex.def)             Requested size: 353.32109pt x 264.99081pt.
+
+<HVariedData/Pictures/001Decdp.png, id=40, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/001Decdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/001Decdp.png>
+Package pdftex.def Info: HVariedData/Pictures/001Decdp.png used on input line 1
+34.
+(pdftex.def)             Requested size: 353.32109pt x 264.99081pt.
+ [5
+
+ <./HVariedData/Decreasing/001Edec.png> <./HVariedData/Decreasing/001Mdec.png> 
+<./HVariedData/Pictures/001Dec1.png (PNG copy)> <./HVariedData/Pictures/001Dec8
+4.png (PNG copy)> <./HVariedData/Pictures/001Dec86.png (PNG copy)> <./HVariedDa
+ta/Pictures/001Dec216.png (PNG copy)>] <HVariedData/compoundEM/001Ecompound.png
+, id=44, 642.4pt x 481.8pt>
+File: HVariedData/compoundEM/001Ecompound.png Graphic file (type png)
+
+<use HVariedData/compoundEM/001Ecompound.png>
+Package pdftex.def Info: HVariedData/compoundEM/001Ecompound.png used on input 
+line 140.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+
+<HVariedData/compoundEM/001Mcompound.png, id=45, 642.4pt x 481.8pt>
+File: HVariedData/compoundEM/001Mcompound.png Graphic file (type png)
+
+<use HVariedData/compoundEM/001Mcompound.png>
+Package pdftex.def Info: HVariedData/compoundEM/001Mcompound.png used on input 
+line 141.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+ [6 <./HVariedData/Pictures/001Incdp.png> <./HVariedData/Pictures/001Decdp.png>
+] [7 <./HVariedData/compoundEM/001Ecompound.png> <./HVariedData/compoundEM/001M
+compound.png>]
+<HVariedData/Increasing/010Einc.png, id=53, 642.4pt x 481.8pt>
+File: HVariedData/Increasing/010Einc.png Graphic file (type png)
+
+<use HVariedData/Increasing/010Einc.png>
+Package pdftex.def Info: HVariedData/Increasing/010Einc.png used on input line 
+161.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Increasing/010Minc.png, id=54, 642.4pt x 481.8pt>
+File: HVariedData/Increasing/010Minc.png Graphic file (type png)
+
+<use HVariedData/Increasing/010Minc.png>
+Package pdftex.def Info: HVariedData/Increasing/010Minc.png used on input line 
+162.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Pictures/010Inc1.png, id=55, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/010Inc1.png Graphic file (type png)
+
+<use HVariedData/Pictures/010Inc1.png>
+Package pdftex.def Info: HVariedData/Pictures/010Inc1.png used on input line 16
+6.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/010Inc111.png, id=56, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/010Inc111.png Graphic file (type png)
+
+<use HVariedData/Pictures/010Inc111.png>
+Package pdftex.def Info: HVariedData/Pictures/010Inc111.png used on input line 
+167.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/010Inc118.png, id=57, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/010Inc118.png Graphic file (type png)
+
+<use HVariedData/Pictures/010Inc118.png>
+Package pdftex.def Info: HVariedData/Pictures/010Inc118.png used on input line 
+168.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/010Inc151.png, id=58, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/010Inc151.png Graphic file (type png)
+
+<use HVariedData/Pictures/010Inc151.png>
+Package pdftex.def Info: HVariedData/Pictures/010Inc151.png used on input line 
+169.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/010Inc32S.png, id=59, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/010Inc32S.png Graphic file (type png)
+
+<use HVariedData/Pictures/010Inc32S.png>
+Package pdftex.def Info: HVariedData/Pictures/010Inc32S.png used on input line 
+170.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/010Inc33S.png, id=60, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/010Inc33S.png Graphic file (type png)
+
+<use HVariedData/Pictures/010Inc33S.png>
+Package pdftex.def Info: HVariedData/Pictures/010Inc33S.png used on input line 
+171.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+ [8
+
+ <./HVariedData/Increasing/010Einc.png> <./HVariedData/Increasing/010Minc.png> 
+<./HVariedData/Pictures/010Inc1.png (PNG copy)> <./HVariedData/Pictures/010Inc1
+11.png (PNG copy)> <./HVariedData/Pictures/010Inc118.png (PNG copy)> <./HVaried
+Data/Pictures/010Inc151.png (PNG copy)> <./HVariedData/Pictures/010Inc32S.png (
+PNG copy)> <./HVariedData/Pictures/010Inc33S.png (PNG copy)>]
+<HVariedData/Decreasing/010Edec.png, id=66, 642.4pt x 481.8pt>
+File: HVariedData/Decreasing/010Edec.png Graphic file (type png)
+
+<use HVariedData/Decreasing/010Edec.png>
+Package pdftex.def Info: HVariedData/Decreasing/010Edec.png used on input line 
+186.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Decreasing/010Mdec.png, id=67, 642.4pt x 481.8pt>
+File: HVariedData/Decreasing/010Mdec.png Graphic file (type png)
+
+<use HVariedData/Decreasing/010Mdec.png>
+Package pdftex.def Info: HVariedData/Decreasing/010Mdec.png used on input line 
+187.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Pictures/010Dec1.png, id=68, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/010Dec1.png Graphic file (type png)
+
+<use HVariedData/Pictures/010Dec1.png>
+Package pdftex.def Info: HVariedData/Pictures/010Dec1.png used on input line 19
+1.
+(pdftex.def)             Requested size: 126.4744pt x 126.4744pt.
+
+<HVariedData/Pictures/010Dec83.png, id=69, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/010Dec83.png Graphic file (type png)
+
+<use HVariedData/Pictures/010Dec83.png>
+Package pdftex.def Info: HVariedData/Pictures/010Dec83.png used on input line 1
+92.
+(pdftex.def)             Requested size: 126.4744pt x 126.4744pt.
+
+<HVariedData/Pictures/010Dec84.png, id=70, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/010Dec84.png Graphic file (type png)
+
+<use HVariedData/Pictures/010Dec84.png>
+Package pdftex.def Info: HVariedData/Pictures/010Dec84.png used on input line 1
+93.
+(pdftex.def)             Requested size: 126.4744pt x 126.4744pt.
+
+<HVariedData/Pictures/010Dec216.png, id=71, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/010Dec216.png Graphic file (type png)
+
+<use HVariedData/Pictures/010Dec216.png>
+Package pdftex.def Info: HVariedData/Pictures/010Dec216.png used on input line 
+194.
+(pdftex.def)             Requested size: 126.4744pt x 126.4744pt.
+ [9
+
+ <./HVariedData/Decreasing/010Edec.png> <./HVariedData/Decreasing/010Mdec.png> 
+<./HVariedData/Pictures/010Dec1.png (PNG copy)> <./HVariedData/Pictures/010Dec8
+3.png (PNG copy)> <./HVariedData/Pictures/010Dec84.png (PNG copy)> <./HVariedDa
+ta/Pictures/010Dec216.png (PNG copy)>] <HVariedData/Pictures/010Incdp.png, id=7
+5, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/010Incdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/010Incdp.png>
+Package pdftex.def Info: HVariedData/Pictures/010Incdp.png used on input line 2
+02.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+
+<HVariedData/Pictures/010Decdp.png, id=76, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/010Decdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/010Decdp.png>
+Package pdftex.def Info: HVariedData/Pictures/010Decdp.png used on input line 2
+03.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+ [10 <./HVariedData/Pictures/010Incdp.png> <./HVariedData/Pictures/010Decdp.png
+>]
+<HVariedData/compoundEM/010Ecompound.png, id=80, 642.4pt x 481.8pt>
+File: HVariedData/compoundEM/010Ecompound.png Graphic file (type png)
+
+<use HVariedData/compoundEM/010Ecompound.png>
+Package pdftex.def Info: HVariedData/compoundEM/010Ecompound.png used on input 
+line 210.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+
+<HVariedData/compoundEM/010Mcompound.png, id=81, 642.4pt x 481.8pt>
+File: HVariedData/compoundEM/010Mcompound.png Graphic file (type png)
+
+<use HVariedData/compoundEM/010Mcompound.png>
+Package pdftex.def Info: HVariedData/compoundEM/010Mcompound.png used on input 
+line 211.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+
+
+LaTeX Warning: Float too large for page by 58.63231pt on input line 213.
+
+[11 <./HVariedData/compoundEM/010Ecompound.png> <./HVariedData/compoundEM/010Mc
+ompound.png>] <HVariedData/Increasing/011Einc.png, id=85, 642.4pt x 481.8pt>
+File: HVariedData/Increasing/011Einc.png Graphic file (type png)
+
+<use HVariedData/Increasing/011Einc.png>
+Package pdftex.def Info: HVariedData/Increasing/011Einc.png used on input line 
+225.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Increasing/011Minc.png, id=86, 642.4pt x 481.8pt>
+File: HVariedData/Increasing/011Minc.png Graphic file (type png)
+
+<use HVariedData/Increasing/011Minc.png>
+Package pdftex.def Info: HVariedData/Increasing/011Minc.png used on input line 
+226.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Pictures/011Inc1.png, id=87, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/011Inc1.png Graphic file (type png)
+
+<use HVariedData/Pictures/011Inc1.png>
+Package pdftex.def Info: HVariedData/Pictures/011Inc1.png used on input line 23
+0.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/011Inc67.png, id=88, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/011Inc67.png Graphic file (type png)
+
+<use HVariedData/Pictures/011Inc67.png>
+Package pdftex.def Info: HVariedData/Pictures/011Inc67.png used on input line 2
+31.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/011Inc82.png, id=89, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/011Inc82.png Graphic file (type png)
+
+<use HVariedData/Pictures/011Inc82.png>
+Package pdftex.def Info: HVariedData/Pictures/011Inc82.png used on input line 2
+32.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/011Inc94.png, id=90, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/011Inc94.png Graphic file (type png)
+
+<use HVariedData/Pictures/011Inc94.png>
+Package pdftex.def Info: HVariedData/Pictures/011Inc94.png used on input line 2
+33.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/011Inc26S.png, id=91, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/011Inc26S.png Graphic file (type png)
+
+<use HVariedData/Pictures/011Inc26S.png>
+Package pdftex.def Info: HVariedData/Pictures/011Inc26S.png used on input line 
+234.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/011Inc39S.png, id=92, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/011Inc39S.png Graphic file (type png)
+
+<use HVariedData/Pictures/011Inc39S.png>
+Package pdftex.def Info: HVariedData/Pictures/011Inc39S.png used on input line 
+235.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+ [12
+
+
+
+ <./HVariedData/Increasing/011Einc.png> <./HVariedData/Increasing/011Minc.png> 
+<./HVariedData/Pictures/011Inc1.png (PNG copy)> <./HVariedData/Pictures/011Inc6
+7.png (PNG copy)> <./HVariedData/Pictures/011Inc82.png (PNG copy)> <./HVariedDa
+ta/Pictures/011Inc94.png (PNG copy)> <./HVariedData/Pictures/011Inc26S.png (PNG
+ copy)> <./HVariedData/Pictures/011Inc39S.png (PNG copy)>]
+<HVariedData/Decreasing/011Edec.png, id=98, 642.4pt x 481.8pt>
+File: HVariedData/Decreasing/011Edec.png Graphic file (type png)
+
+<use HVariedData/Decreasing/011Edec.png>
+Package pdftex.def Info: HVariedData/Decreasing/011Edec.png used on input line 
+249.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Decreasing/011Mdec.png, id=99, 642.4pt x 481.8pt>
+File: HVariedData/Decreasing/011Mdec.png Graphic file (type png)
+
+<use HVariedData/Decreasing/011Mdec.png>
+Package pdftex.def Info: HVariedData/Decreasing/011Mdec.png used on input line 
+250.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Pictures/011Dec1.png, id=100, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/011Dec1.png Graphic file (type png)
+
+<use HVariedData/Pictures/011Dec1.png>
+Package pdftex.def Info: HVariedData/Pictures/011Dec1.png used on input line 25
+4.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
+
+<HVariedData/Pictures/011Dec82.png, id=101, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/011Dec82.png Graphic file (type png)
+
+<use HVariedData/Pictures/011Dec82.png>
+Package pdftex.def Info: HVariedData/Pictures/011Dec82.png used on input line 2
+55.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
+
+<HVariedData/Pictures/011Dec122.png, id=102, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/011Dec122.png Graphic file (type png)
+
+<use HVariedData/Pictures/011Dec122.png>
+Package pdftex.def Info: HVariedData/Pictures/011Dec122.png used on input line 
+256.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
+
+<HVariedData/Pictures/011Dec216.png, id=103, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/011Dec216.png Graphic file (type png)
+
+<use HVariedData/Pictures/011Dec216.png>
+Package pdftex.def Info: HVariedData/Pictures/011Dec216.png used on input line 
+257.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
+
+<HVariedData/Pictures/011Incdp.png, id=104, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/011Incdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/011Incdp.png>
+Package pdftex.def Info: HVariedData/Pictures/011Incdp.png used on input line 2
+64.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+
+<HVariedData/Pictures/011Decdp.png, id=105, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/011Decdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/011Decdp.png>
+Package pdftex.def Info: HVariedData/Pictures/011Decdp.png used on input line 2
+65.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+ [13
+
+ <./HVariedData/Decreasing/011Edec.png> <./HVariedData/Decreasing/011Mdec.png> 
+<./HVariedData/Pictures/011Dec1.png (PNG copy)> <./HVariedData/Pictures/011Dec8
+2.png (PNG copy)> <./HVariedData/Pictures/011Dec122.png (PNG copy)> <./HVariedD
+ata/Pictures/011Dec216.png (PNG copy)>] [14 <./HVariedData/Pictures/011Incdp.pn
+g> <./HVariedData/Pictures/011Decdp.png>] <HVariedData/compoundEM/011Ecompound.
+png, id=113, 642.4pt x 481.8pt>
+File: HVariedData/compoundEM/011Ecompound.png Graphic file (type png)
+
+<use HVariedData/compoundEM/011Ecompound.png>
+Package pdftex.def Info: HVariedData/compoundEM/011Ecompound.png used on input 
+line 273.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+
+<HVariedData/compoundEM/011Mcompound.png, id=114, 642.4pt x 481.8pt>
+File: HVariedData/compoundEM/011Mcompound.png Graphic file (type png)
+
+<use HVariedData/compoundEM/011Mcompound.png>
+Package pdftex.def Info: HVariedData/compoundEM/011Mcompound.png used on input 
+line 274.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+
+
+LaTeX Warning: Float too large for page by 58.63231pt on input line 276.
+
+[15 <./HVariedData/compoundEM/011Ecompound.png> <./HVariedData/compoundEM/011Mc
+ompound.png>] <100/E000to005G.png, id=118, 642.4pt x 481.8pt>
+File: 100/E000to005G.png Graphic file (type png)
+
+<use 100/E000to005G.png>
+Package pdftex.def Info: 100/E000to005G.png used on input line 290.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+ <100/M000to005G.png, id=119, 642.4pt x 481.8pt>
+File: 100/M000to005G.png Graphic file (type png)
+
+<use 100/M000to005G.png>
+Package pdftex.def Info: 100/M000to005G.png used on input line 291.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+ <100/1S000to005G.png, id=120, 361.35pt x 361.35pt>
+File: 100/1S000to005G.png Graphic file (type png)
+
+<use 100/1S000to005G.png>
+Package pdftex.def Info: 100/1S000to005G.png used on input line 296.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+ <100/39S000to005G.png, id=121, 361.35pt x 361.35pt>
+File: 100/39S000to005G.png Graphic file (type png)
+
+<use 100/39S000to005G.png>
+Package pdftex.def Info: 100/39S000to005G.png used on input line 297.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+ <100/42S000to005G.png, id=122, 361.35pt x 361.35pt>
+File: 100/42S000to005G.png Graphic file (type png)
+
+<use 100/42S000to005G.png>
+Package pdftex.def Info: 100/42S000to005G.png used on input line 298.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+ <100/55S000to005G.png, id=123, 361.35pt x 361.35pt>
+File: 100/55S000to005G.png Graphic file (type png)
+
+<use 100/55S000to005G.png>
+Package pdftex.def Info: 100/55S000to005G.png used on input line 299.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+
+<100/419S000to005G.png, id=124, 361.35pt x 361.35pt>
+File: 100/419S000to005G.png Graphic file (type png)
+
+<use 100/419S000to005G.png>
+Package pdftex.def Info: 100/419S000to005G.png used on input line 300.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+
+<100/466S000to005G.png, id=125, 361.35pt x 361.35pt>
+File: 100/466S000to005G.png Graphic file (type png)
+
+<use 100/466S000to005G.png>
+Package pdftex.def Info: 100/466S000to005G.png used on input line 301.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+
+<100/467S000to005G.png, id=126, 361.35pt x 361.35pt>
+File: 100/467S000to005G.png Graphic file (type png)
+
+<use 100/467S000to005G.png>
+Package pdftex.def Info: 100/467S000to005G.png used on input line 302.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+
+<100/501S000to005G.png, id=127, 361.35pt x 361.35pt>
+File: 100/501S000to005G.png Graphic file (type png)
+
+<use 100/501S000to005G.png>
+Package pdftex.def Info: 100/501S000to005G.png used on input line 303.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+ [16
+
+
+ <./100/E000to005G.png> <./100/M000to005G.png> <./100/1S000to005G.png (PNG copy
+)> <./100/39S000to005G.png (PNG copy)> <./100/42S000to005G.png (PNG copy)> <./1
+00/55S000to005G.png (PNG copy)> <./100/419S000to005G.png (PNG copy)> <./100/466
+S000to005G.png (PNG copy)> <./100/467S000to005G.png (PNG copy)> <./100/501S000t
+o005G.png (PNG copy)>]
+<100/E005to000G.png, id=133, 642.4pt x 481.8pt>
+File: 100/E005to000G.png Graphic file (type png)
+ <use 100/E005to000G.png>
+Package pdftex.def Info: 100/E005to000G.png used on input line 319.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<100/M005to000G.png, id=134, 642.4pt x 481.8pt>
+File: 100/M005to000G.png Graphic file (type png)
+ <use 100/M005to000G.png>
+Package pdftex.def Info: 100/M005to000G.png used on input line 320.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<100/1S005to000G.png, id=135, 361.35pt x 361.35pt>
+File: 100/1S005to000G.png Graphic file (type png)
+ <use 100/1S005to000G.png>
+Package pdftex.def Info: 100/1S005to000G.png used on input line 325.
+(pdftex.def)             Requested size: 86.72577pt x 86.72577pt.
+
+<100/3S005to000G.png, id=136, 361.35pt x 361.35pt>
+File: 100/3S005to000G.png Graphic file (type png)
+ <use 100/3S005to000G.png>
+Package pdftex.def Info: 100/3S005to000G.png used on input line 326.
+(pdftex.def)             Requested size: 86.72577pt x 86.72577pt.
+
+<100/55S005to000G.png, id=137, 361.35pt x 361.35pt>
+File: 100/55S005to000G.png Graphic file (type png)
+ <use 100/55S005to000G.png>
+Package pdftex.def Info: 100/55S005to000G.png used on input line 327.
+(pdftex.def)             Requested size: 86.72577pt x 86.72577pt.
+
+<100/56S005to000G.png, id=138, 361.35pt x 361.35pt>
+File: 100/56S005to000G.png Graphic file (type png)
+ <use 100/56S005to000G.png>
+Package pdftex.def Info: 100/56S005to000G.png used on input line 328.
+(pdftex.def)             Requested size: 86.72577pt x 86.72577pt.
+
+<100/129S005to000G.png, id=139, 361.35pt x 361.35pt>
+File: 100/129S005to000G.png Graphic file (type png)
+
+<use 100/129S005to000G.png>
+Package pdftex.def Info: 100/129S005to000G.png used on input line 329.
+(pdftex.def)             Requested size: 86.72577pt x 86.72577pt.
+
+<100/501S005to000G.png, id=140, 361.35pt x 361.35pt>
+File: 100/501S005to000G.png Graphic file (type png)
+
+<use 100/501S005to000G.png>
+Package pdftex.def Info: 100/501S005to000G.png used on input line 330.
+(pdftex.def)             Requested size: 86.72577pt x 86.72577pt.
+ [17
+
+ <./100/E005to000G.png> <./100/M005to000G.png> <./100/1S005to000G.png (PNG copy
+)> <./100/3S005to000G.png (PNG copy)> <./100/55S005to000G.png (PNG copy)> <./10
+0/56S005to000G.png (PNG copy)> <./100/129S005to000G.png (PNG copy)> <./100/501S
+005to000G.png (PNG copy)>]
+<HVariedData/Pictures/100Decdp.png, id=146, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/100Decdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/100Decdp.png>
+Package pdftex.def Info: HVariedData/Pictures/100Decdp.png used on input line 3
+40.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+
+<HVariedData/Pictures/100Incdp.png, id=147, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/100Incdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/100Incdp.png>
+Package pdftex.def Info: HVariedData/Pictures/100Incdp.png used on input line 3
+41.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+ [18 <./HVariedData/Pictures/100Decdp.png> <./HVariedData/Pictures/100Incdp.png
+>]
+<HVariedData/compoundEM/100Ecompound.png, id=151, 642.4pt x 481.8pt>
+File: HVariedData/compoundEM/100Ecompound.png Graphic file (type png)
+
+<use HVariedData/compoundEM/100Ecompound.png>
+Package pdftex.def Info: HVariedData/compoundEM/100Ecompound.png used on input 
+line 350.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+
+<HVariedData/compoundEM/100Mcompound.png, id=152, 642.4pt x 481.8pt>
+File: HVariedData/compoundEM/100Mcompound.png Graphic file (type png)
+
+<use HVariedData/compoundEM/100Mcompound.png>
+Package pdftex.def Info: HVariedData/compoundEM/100Mcompound.png used on input 
+line 351.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+
+
+LaTeX Warning: Float too large for page by 58.63231pt on input line 353.
+
+[19 <./HVariedData/compoundEM/100Ecompound.png> <./HVariedData/compoundEM/100Mc
+ompound.png>] <100/000to005Freq.png, id=157, 642.4pt x 481.8pt>
+File: 100/000to005Freq.png Graphic file (type png)
+
+<use 100/000to005Freq.png>
+Package pdftex.def Info: 100/000to005Freq.png used on input line 358.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+ <100/005to000Freq.png, id=158, 642.4pt x 481.8pt>
+File: 100/005to000Freq.png Graphic file (type png)
+
+<use 100/005to000Freq.png>
+Package pdftex.def Info: 100/005to000Freq.png used on input line 359.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+ [20 <./100/000to005Freq.png> <./100/005to000Freq.png>] <100/E000to005R.png, id
+=164, 642.4pt x 481.8pt>
+File: 100/E000to005R.png Graphic file (type png)
+ <use 100/E000to005R.png>
+Package pdftex.def Info: 100/E000to005R.png used on input line 372.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<100/M000to005R.png, id=165, 642.4pt x 481.8pt>
+File: 100/M000to005R.png Graphic file (type png)
+ <use 100/M000to005R.png>
+Package pdftex.def Info: 100/M000to005R.png used on input line 373.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<100/1S000to005R.png, id=166, 361.35pt x 361.35pt>
+File: 100/1S000to005R.png Graphic file (type png)
+ <use 100/1S000to005R.png>
+Package pdftex.def Info: 100/1S000to005R.png used on input line 378.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<100/2S000to005R.png, id=167, 361.35pt x 361.35pt>
+File: 100/2S000to005R.png Graphic file (type png)
+ <use 100/2S000to005R.png>
+Package pdftex.def Info: 100/2S000to005R.png used on input line 379.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<100/48S000to005R.png, id=168, 361.35pt x 361.35pt>
+File: 100/48S000to005R.png Graphic file (type png)
+ <use 100/48S000to005R.png>
+Package pdftex.def Info: 100/48S000to005R.png used on input line 380.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<100/54S000to005R.png, id=169, 361.35pt x 361.35pt>
+File: 100/54S000to005R.png Graphic file (type png)
+ <use 100/54S000to005R.png>
+Package pdftex.def Info: 100/54S000to005R.png used on input line 381.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<100/55S000to005R.png, id=170, 361.35pt x 361.35pt>
+File: 100/55S000to005R.png Graphic file (type png)
+ <use 100/55S000to005R.png>
+Package pdftex.def Info: 100/55S000to005R.png used on input line 382.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<100/411S000to005R.png, id=171, 361.35pt x 361.35pt>
+File: 100/411S000to005R.png Graphic file (type png)
+
+<use 100/411S000to005R.png>
+Package pdftex.def Info: 100/411S000to005R.png used on input line 383.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<100/467S000to005R.png, id=172, 361.35pt x 361.35pt>
+File: 100/467S000to005R.png Graphic file (type png)
+
+<use 100/467S000to005R.png>
+Package pdftex.def Info: 100/467S000to005R.png used on input line 384.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<100/501S000to005R.png, id=173, 361.35pt x 361.35pt>
+File: 100/501S000to005R.png Graphic file (type png)
+
+<use 100/501S000to005R.png>
+Package pdftex.def Info: 100/501S000to005R.png used on input line 385.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+ [21
+
+
+
+
+ <./100/E000to005R.png> <./100/M000to005R.png> <./100/1S000to005R.png (PNG copy
+)> <./100/2S000to005R.png (PNG copy)> <./100/48S000to005R.png (PNG copy)> <./10
+0/54S000to005R.png (PNG copy)> <./100/55S000to005R.png (PNG copy)> <./100/411S0
+00to005R.png (PNG copy)> <./100/467S000to005R.png (PNG copy)> <./100/501S000to0
+05R.png (PNG copy)>]
+<100/E005to000R.png, id=179, 642.4pt x 481.8pt>
+File: 100/E005to000R.png Graphic file (type png)
+ <use 100/E005to000R.png>
+Package pdftex.def Info: 100/E005to000R.png used on input line 397.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<100/M005to000R.png, id=180, 642.4pt x 481.8pt>
+File: 100/M005to000R.png Graphic file (type png)
+ <use 100/M005to000R.png>
+Package pdftex.def Info: 100/M005to000R.png used on input line 398.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<100/1S005to000R.png, id=181, 361.35pt x 361.35pt>
+File: 100/1S005to000R.png Graphic file (type png)
+ <use 100/1S005to000R.png>
+Package pdftex.def Info: 100/1S005to000R.png used on input line 403.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<100/41S005to000R.png, id=182, 361.35pt x 361.35pt>
+File: 100/41S005to000R.png Graphic file (type png)
+ <use 100/41S005to000R.png>
+Package pdftex.def Info: 100/41S005to000R.png used on input line 404.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<100/46S005to000R.png, id=183, 361.35pt x 361.35pt>
+File: 100/46S005to000R.png Graphic file (type png)
+ <use 100/46S005to000R.png>
+Package pdftex.def Info: 100/46S005to000R.png used on input line 405.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<100/244S005to000R.png, id=184, 361.35pt x 361.35pt>
+File: 100/244S005to000R.png Graphic file (type png)
+
+<use 100/244S005to000R.png>
+Package pdftex.def Info: 100/244S005to000R.png used on input line 406.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<100/245S005to000R.png, id=185, 361.35pt x 361.35pt>
+File: 100/245S005to000R.png Graphic file (type png)
+
+<use 100/245S005to000R.png>
+Package pdftex.def Info: 100/245S005to000R.png used on input line 407.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<100/501S005to000R.png, id=186, 361.35pt x 361.35pt>
+File: 100/501S005to000R.png Graphic file (type png)
+
+<use 100/501S005to000R.png>
+Package pdftex.def Info: 100/501S005to000R.png used on input line 408.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+ [22
+
+ <./100/E005to000R.png> <./100/M005to000R.png> <./100/1S005to000R.png (PNG copy
+)> <./100/41S005to000R.png (PNG copy)> <./100/46S005to000R.png (PNG copy)> <./1
+00/244S005to000R.png (PNG copy)> <./100/245S005to000R.png (PNG copy)> <./100/50
+1S005to000R.png (PNG copy)>]
+<HVariedData/Pictures/100DecdpR.png, id=192, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/100DecdpR.png Graphic file (type png)
+
+<use HVariedData/Pictures/100DecdpR.png>
+Package pdftex.def Info: HVariedData/Pictures/100DecdpR.png used on input line 
+415.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+
+<HVariedData/Pictures/100IncdpR.png, id=193, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/100IncdpR.png Graphic file (type png)
+
+<use HVariedData/Pictures/100IncdpR.png>
+Package pdftex.def Info: HVariedData/Pictures/100IncdpR.png used on input line 
+416.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+ [23 <./HVariedData/Pictures/100DecdpR.png> <./HVariedData/Pictures/100IncdpR.p
+ng>]
+<100/000to005RFreq.png, id=197, 642.4pt x 481.8pt>
+File: 100/000to005RFreq.png Graphic file (type png)
+ <use 100/000to005RFreq.png>
+Package pdftex.def Info: 100/000to005RFreq.png used on input line 426.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+
+<100/005to000RFreq.png, id=198, 642.4pt x 481.8pt>
+File: 100/005to000RFreq.png Graphic file (type png)
+ <use 100/005to000RFreq.png>
+Package pdftex.def Info: 100/005to000RFreq.png used on input line 427.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+
+
+LaTeX Warning: Float too large for page by 34.26668pt on input line 434.
+
+[24 <./100/000to005RFreq.png> <./100/005to000RFreq.png>]
+<HVariedData/Increasing/101Einc.png, id=204, 642.4pt x 481.8pt>
+File: HVariedData/Increasing/101Einc.png Graphic file (type png)
+
+<use HVariedData/Increasing/101Einc.png>
+Package pdftex.def Info: HVariedData/Increasing/101Einc.png used on input line 
+445.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Increasing/101Minc.png, id=205, 642.4pt x 481.8pt>
+File: HVariedData/Increasing/101Minc.png Graphic file (type png)
+
+<use HVariedData/Increasing/101Minc.png>
+Package pdftex.def Info: HVariedData/Increasing/101Minc.png used on input line 
+446.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Pictures/101Inc1.png, id=206, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/101Inc1.png Graphic file (type png)
+
+<use HVariedData/Pictures/101Inc1.png>
+Package pdftex.def Info: HVariedData/Pictures/101Inc1.png used on input line 45
+0.
+(pdftex.def)             Requested size: 104.78882pt x 104.78882pt.
+
+<HVariedData/Pictures/101Inc56.png, id=207, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/101Inc56.png Graphic file (type png)
+
+<use HVariedData/Pictures/101Inc56.png>
+Package pdftex.def Info: HVariedData/Pictures/101Inc56.png used on input line 4
+51.
+(pdftex.def)             Requested size: 104.78882pt x 104.78882pt.
+
+<HVariedData/Pictures/101Inc61.png, id=208, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/101Inc61.png Graphic file (type png)
+
+<use HVariedData/Pictures/101Inc61.png>
+Package pdftex.def Info: HVariedData/Pictures/101Inc61.png used on input line 4
+52.
+(pdftex.def)             Requested size: 104.78882pt x 104.78882pt.
+
+<HVariedData/Pictures/101Inc116.png, id=209, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/101Inc116.png Graphic file (type png)
+
+<use HVariedData/Pictures/101Inc116.png>
+Package pdftex.def Info: HVariedData/Pictures/101Inc116.png used on input line 
+453.
+(pdftex.def)             Requested size: 104.78882pt x 104.78882pt.
+
+<HVariedData/Pictures/101Inc128.png, id=210, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/101Inc128.png Graphic file (type png)
+
+<use HVariedData/Pictures/101Inc128.png>
+Package pdftex.def Info: HVariedData/Pictures/101Inc128.png used on input line 
+454.
+(pdftex.def)             Requested size: 104.78882pt x 104.78882pt.
+
+<HVariedData/Pictures/101Inc32S.png, id=211, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/101Inc32S.png Graphic file (type png)
+
+<use HVariedData/Pictures/101Inc32S.png>
+Package pdftex.def Info: HVariedData/Pictures/101Inc32S.png used on input line 
+455.
+(pdftex.def)             Requested size: 104.78882pt x 104.78882pt.
+
+<HVariedData/Pictures/101Inc38S.png, id=212, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/101Inc38S.png Graphic file (type png)
+
+<use HVariedData/Pictures/101Inc38S.png>
+Package pdftex.def Info: HVariedData/Pictures/101Inc38S.png used on input line 
+456.
+(pdftex.def)             Requested size: 104.78882pt x 104.78882pt.
+ [25
+
+
+
+ <./HVariedData/Increasing/101Einc.png> <./HVariedData/Increasing/101Minc.png> 
+<./HVariedData/Pictures/101Inc1.png (PNG copy)> <./HVariedData/Pictures/101Inc5
+6.png (PNG copy)> <./HVariedData/Pictures/101Inc61.png (PNG copy)> <./HVariedDa
+ta/Pictures/101Inc116.png (PNG copy)> <./HVariedData/Pictures/101Inc128.png (PN
+G copy)> <./HVariedData/Pictures/101Inc32S.png (PNG copy)> <./HVariedData/Pictu
+res/101Inc38S.png (PNG copy)>]
+<HVariedData/Decreasing/101Edec.png, id=219, 642.4pt x 481.8pt>
+File: HVariedData/Decreasing/101Edec.png Graphic file (type png)
+
+<use HVariedData/Decreasing/101Edec.png>
+Package pdftex.def Info: HVariedData/Decreasing/101Edec.png used on input line 
+469.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Decreasing/101Mdec.png, id=220, 642.4pt x 481.8pt>
+File: HVariedData/Decreasing/101Mdec.png Graphic file (type png)
+
+<use HVariedData/Decreasing/101Mdec.png>
+Package pdftex.def Info: HVariedData/Decreasing/101Mdec.png used on input line 
+470.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Pictures/101Dec1.png, id=221, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/101Dec1.png Graphic file (type png)
+
+<use HVariedData/Pictures/101Dec1.png>
+Package pdftex.def Info: HVariedData/Pictures/101Dec1.png used on input line 47
+4.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
+
+<HVariedData/Pictures/101Dec79.png, id=222, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/101Dec79.png Graphic file (type png)
+
+<use HVariedData/Pictures/101Dec79.png>
+Package pdftex.def Info: HVariedData/Pictures/101Dec79.png used on input line 4
+75.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
+
+<HVariedData/Pictures/101Dec125.png, id=223, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/101Dec125.png Graphic file (type png)
+
+<use HVariedData/Pictures/101Dec125.png>
+Package pdftex.def Info: HVariedData/Pictures/101Dec125.png used on input line 
+476.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
+
+<HVariedData/Pictures/101Dec216.png, id=224, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/101Dec216.png Graphic file (type png)
+
+<use HVariedData/Pictures/101Dec216.png>
+Package pdftex.def Info: HVariedData/Pictures/101Dec216.png used on input line 
+477.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
+
+<HVariedData/Pictures/101Incdp.png, id=225, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/101Incdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/101Incdp.png>
+Package pdftex.def Info: HVariedData/Pictures/101Incdp.png used on input line 4
+84.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+
+<HVariedData/Pictures/101Decdp.png, id=226, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/101Decdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/101Decdp.png>
+Package pdftex.def Info: HVariedData/Pictures/101Decdp.png used on input line 4
+85.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+ [26
+
+ <./HVariedData/Decreasing/101Edec.png> <./HVariedData/Decreasing/101Mdec.png> 
+<./HVariedData/Pictures/101Dec1.png (PNG copy)> <./HVariedData/Pictures/101Dec7
+9.png (PNG copy)> <./HVariedData/Pictures/101Dec125.png (PNG copy)> <./HVariedD
+ata/Pictures/101Dec216.png (PNG copy)>] [27 <./HVariedData/Pictures/101Incdp.pn
+g> <./HVariedData/Pictures/101Decdp.png>] <HVariedData/compoundEM/101Ecompound.
+png, id=233, 642.4pt x 481.8pt>
+File: HVariedData/compoundEM/101Ecompound.png Graphic file (type png)
+
+<use HVariedData/compoundEM/101Ecompound.png>
+Package pdftex.def Info: HVariedData/compoundEM/101Ecompound.png used on input 
+line 493.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+
+<HVariedData/compoundEM/101Mcompound.png, id=234, 642.4pt x 481.8pt>
+File: HVariedData/compoundEM/101Mcompound.png Graphic file (type png)
+
+<use HVariedData/compoundEM/101Mcompound.png>
+Package pdftex.def Info: HVariedData/compoundEM/101Mcompound.png used on input 
+line 494.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+
+
+LaTeX Warning: Float too large for page by 58.63231pt on input line 496.
+
+[28 <./HVariedData/compoundEM/101Ecompound.png> <./HVariedData/compoundEM/101Mc
+ompound.png>] <HVariedData/Increasing/110EInc.png, id=238, 642.4pt x 481.8pt>
+File: HVariedData/Increasing/110EInc.png Graphic file (type png)
+
+<use HVariedData/Increasing/110EInc.png>
+Package pdftex.def Info: HVariedData/Increasing/110EInc.png used on input line 
+508.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Increasing/110Minc.png, id=239, 642.4pt x 481.8pt>
+File: HVariedData/Increasing/110Minc.png Graphic file (type png)
+
+<use HVariedData/Increasing/110Minc.png>
+Package pdftex.def Info: HVariedData/Increasing/110Minc.png used on input line 
+509.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<110/1S000to005G.png, id=240, 361.35pt x 361.35pt>
+File: 110/1S000to005G.png Graphic file (type png)
+ <use 110/1S000to005G.png>
+Package pdftex.def Info: 110/1S000to005G.png used on input line 514.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+
+<110/47S000to005G.png, id=241, 361.35pt x 361.35pt>
+File: 110/47S000to005G.png Graphic file (type png)
+ <use 110/47S000to005G.png>
+Package pdftex.def Info: 110/47S000to005G.png used on input line 515.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+
+<110/50S000to005G.png, id=242, 361.35pt x 361.35pt>
+File: 110/50S000to005G.png Graphic file (type png)
+ <use 110/50S000to005G.png>
+Package pdftex.def Info: 110/50S000to005G.png used on input line 516.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+
+<110/96S000to005G.png, id=243, 361.35pt x 361.35pt>
+File: 110/96S000to005G.png Graphic file (type png)
+ <use 110/96S000to005G.png>
+Package pdftex.def Info: 110/96S000to005G.png used on input line 517.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+
+<110/501S000to005G.png, id=244, 361.35pt x 361.35pt>
+File: 110/501S000to005G.png Graphic file (type png)
+
+<use 110/501S000to005G.png>
+Package pdftex.def Info: 110/501S000to005G.png used on input line 518.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+
+<HVariedData/Pictures/110Inc40S.png, id=245, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/110Inc40S.png Graphic file (type png)
+
+<use HVariedData/Pictures/110Inc40S.png>
+Package pdftex.def Info: HVariedData/Pictures/110Inc40S.png used on input line 
+519.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+
+<HVariedData/Pictures/110Inc51S.png, id=246, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/110Inc51S.png Graphic file (type png)
+
+<use HVariedData/Pictures/110Inc51S.png>
+Package pdftex.def Info: HVariedData/Pictures/110Inc51S.png used on input line 
+520.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+ [29
+
+
+ <./HVariedData/Increasing/110EInc.png> <./HVariedData/Increasing/110Minc.png> 
+<./110/1S000to005G.png (PNG copy)> <./110/47S000to005G.png (PNG copy)> <./110/5
+0S000to005G.png (PNG copy)> <./110/96S000to005G.png (PNG copy)> <./110/501S000t
+o005G.png (PNG copy)> <./HVariedData/Pictures/110Inc40S.png (PNG copy)> <./HVar
+iedData/Pictures/110Inc51S.png (PNG copy)>] <HVariedData/Decreasing/110Edec.png
+, id=250, 642.4pt x 481.8pt>
+File: HVariedData/Decreasing/110Edec.png Graphic file (type png)
+
+<use HVariedData/Decreasing/110Edec.png>
+Package pdftex.def Info: HVariedData/Decreasing/110Edec.png used on input line 
+535.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Decreasing/110Mdec.png, id=251, 642.4pt x 481.8pt>
+File: HVariedData/Decreasing/110Mdec.png Graphic file (type png)
+
+<use HVariedData/Decreasing/110Mdec.png>
+Package pdftex.def Info: HVariedData/Decreasing/110Mdec.png used on input line 
+536.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Pictures/110Dec1.png, id=252, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/110Dec1.png Graphic file (type png)
+
+<use HVariedData/Pictures/110Dec1.png>
+Package pdftex.def Info: HVariedData/Pictures/110Dec1.png used on input line 54
+1.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/110Dec102.png, id=253, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/110Dec102.png Graphic file (type png)
+
+<use HVariedData/Pictures/110Dec102.png>
+Package pdftex.def Info: HVariedData/Pictures/110Dec102.png used on input line 
+542.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/110Dec122.png, id=254, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/110Dec122.png Graphic file (type png)
+
+<use HVariedData/Pictures/110Dec122.png>
+Package pdftex.def Info: HVariedData/Pictures/110Dec122.png used on input line 
+543.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/110Dec201.png, id=255, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/110Dec201.png Graphic file (type png)
+
+<use HVariedData/Pictures/110Dec201.png>
+Package pdftex.def Info: HVariedData/Pictures/110Dec201.png used on input line 
+544.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+ [30
+
+ <./HVariedData/Decreasing/110Edec.png> <./HVariedData/Decreasing/110Mdec.png> 
+<./HVariedData/Pictures/110Dec1.png (PNG copy)> <./HVariedData/Pictures/110Dec1
+02.png (PNG copy)> <./HVariedData/Pictures/110Dec122.png (PNG copy)> <./HVaried
+Data/Pictures/110Dec201.png (PNG copy)>] <HVariedData/Pictures/110Incdp.png, id
+=259, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/110Incdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/110Incdp.png>
+Package pdftex.def Info: HVariedData/Pictures/110Incdp.png used on input line 5
+51.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+
+<HVariedData/Pictures/110Decdp.png, id=260, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/110Decdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/110Decdp.png>
+Package pdftex.def Info: HVariedData/Pictures/110Decdp.png used on input line 5
+52.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+ [31 <./HVariedData/Pictures/110Incdp.png> <./HVariedData/Pictures/110Decdp.png
+>]
+<HVariedData/compoundEM/110Ecompound.png, id=265, 642.4pt x 481.8pt>
+File: HVariedData/compoundEM/110Ecompound.png Graphic file (type png)
+
+<use HVariedData/compoundEM/110Ecompound.png>
+Package pdftex.def Info: HVariedData/compoundEM/110Ecompound.png used on input 
+line 559.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+
+<HVariedData/compoundEM/110Mcompound.png, id=266, 642.4pt x 481.8pt>
+File: HVariedData/compoundEM/110Mcompound.png Graphic file (type png)
+
+<use HVariedData/compoundEM/110Mcompound.png>
+Package pdftex.def Info: HVariedData/compoundEM/110Mcompound.png used on input 
+line 560.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+
+
+LaTeX Warning: Float too large for page by 58.63231pt on input line 562.
+
+[32 <./HVariedData/compoundEM/110Ecompound.png> <./HVariedData/compoundEM/110Mc
+ompound.png>] <110/000to005Freq.png, id=270, 642.4pt x 481.8pt>
+File: 110/000to005Freq.png Graphic file (type png)
+
+<use 110/000to005Freq.png>
+Package pdftex.def Info: 110/000to005Freq.png used on input line 567.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+ <110/005to000Freq.png, id=271, 642.4pt x 481.8pt>
+File: 110/005to000Freq.png Graphic file (type png)
+
+<use 110/005to000Freq.png>
+Package pdftex.def Info: 110/005to000Freq.png used on input line 568.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+ [33 <./110/000to005Freq.png> <./110/005to000Freq.png>] <HVariedData/Increasing
+/110EIncR.png, id=277, 642.4pt x 481.8pt>
+File: HVariedData/Increasing/110EIncR.png Graphic file (type png)
+
+<use HVariedData/Increasing/110EIncR.png>
+Package pdftex.def Info: HVariedData/Increasing/110EIncR.png used on input line
+ 581.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<HVariedData/Increasing/110MincR.png, id=278, 642.4pt x 481.8pt>
+File: HVariedData/Increasing/110MincR.png Graphic file (type png)
+
+<use HVariedData/Increasing/110MincR.png>
+Package pdftex.def Info: HVariedData/Increasing/110MincR.png used on input line
+ 582.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<110/1S000to005R.png, id=279, 361.35pt x 361.35pt>
+File: 110/1S000to005R.png Graphic file (type png)
+ <use 110/1S000to005R.png>
+Package pdftex.def Info: 110/1S000to005R.png used on input line 587.
+(pdftex.def)             Requested size: 119.24586pt x 119.24586pt.
+
+<110/69S000to005R.png, id=280, 361.35pt x 361.35pt>
+File: 110/69S000to005R.png Graphic file (type png)
+ <use 110/69S000to005R.png>
+Package pdftex.def Info: 110/69S000to005R.png used on input line 588.
+(pdftex.def)             Requested size: 119.24586pt x 119.24586pt.
+
+<110/82S000to005R.png, id=281, 361.35pt x 361.35pt>
+File: 110/82S000to005R.png Graphic file (type png)
+ <use 110/82S000to005R.png>
+Package pdftex.def Info: 110/82S000to005R.png used on input line 589.
+(pdftex.def)             Requested size: 119.24586pt x 119.24586pt.
+
+<110/501S000to005R.png, id=282, 361.35pt x 361.35pt>
+File: 110/501S000to005R.png Graphic file (type png)
+
+<use 110/501S000to005R.png>
+Package pdftex.def Info: 110/501S000to005R.png used on input line 590.
+(pdftex.def)             Requested size: 119.24586pt x 119.24586pt.
+ [34
+
+
+
+
+ <./HVariedData/Increasing/110EIncR.png> <./HVariedData/Increasing/110MincR.png
+> <./110/1S000to005R.png (PNG copy)> <./110/69S000to005R.png (PNG copy)> <./110
+/82S000to005R.png (PNG copy)> <./110/501S000to005R.png (PNG copy)>] <110/E005to
+000R.png, id=286, 642.4pt x 481.8pt>
+File: 110/E005to000R.png Graphic file (type png)
+
+<use 110/E005to000R.png>
+Package pdftex.def Info: 110/E005to000R.png used on input line 603.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+ <110/M005to000R.png, id=287, 642.4pt x 481.8pt>
+File: 110/M005to000R.png Graphic file (type png)
+
+<use 110/M005to000R.png>
+Package pdftex.def Info: 110/M005to000R.png used on input line 604.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+ <110/1S005to000R.png, id=288, 361.35pt x 361.35pt>
+File: 110/1S005to000R.png Graphic file (type png)
+
+<use 110/1S005to000R.png>
+Package pdftex.def Info: 110/1S005to000R.png used on input line 609.
+(pdftex.def)             Requested size: 119.24586pt x 119.24586pt.
+ <110/241S005to000R.png, id=289, 361.35pt x 361.35pt>
+File: 110/241S005to000R.png Graphic file (type png)
+
+<use 110/241S005to000R.png>
+Package pdftex.def Info: 110/241S005to000R.png used on input line 610.
+(pdftex.def)             Requested size: 119.24586pt x 119.24586pt.
+
+<110/300S005to000R.png, id=290, 361.35pt x 361.35pt>
+File: 110/300S005to000R.png Graphic file (type png)
+
+<use 110/300S005to000R.png>
+Package pdftex.def Info: 110/300S005to000R.png used on input line 611.
+(pdftex.def)             Requested size: 119.24586pt x 119.24586pt.
+
+<110/501S005to000R.png, id=291, 361.35pt x 361.35pt>
+File: 110/501S005to000R.png Graphic file (type png)
+
+<use 110/501S005to000R.png>
+Package pdftex.def Info: 110/501S005to000R.png used on input line 612.
+(pdftex.def)             Requested size: 119.24586pt x 119.24586pt.
+ [35
+
+ <./110/E005to000R.png> <./110/M005to000R.png> <./110/1S005to000R.png (PNG copy
+)> <./110/241S005to000R.png (PNG copy)> <./110/300S005to000R.png (PNG copy)> <.
+/110/501S005to000R.png (PNG copy)>]
+<HVariedData/Pictures/110IncdpR.png, id=297, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/110IncdpR.png Graphic file (type png)
+
+<use HVariedData/Pictures/110IncdpR.png>
+Package pdftex.def Info: HVariedData/Pictures/110IncdpR.png used on input line 
+619.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+
+<HVariedData/Pictures/110DecdpR.png, id=298, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/110DecdpR.png Graphic file (type png)
+
+<use HVariedData/Pictures/110DecdpR.png>
+Package pdftex.def Info: HVariedData/Pictures/110DecdpR.png used on input line 
+620.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+ [36 <./HVariedData/Pictures/110IncdpR.png> <./HVariedData/Pictures/110DecdpR.p
+ng>]
+<110/000to005RFreq.png, id=302, 642.4pt x 481.8pt>
+File: 110/000to005RFreq.png Graphic file (type png)
+ <use 110/000to005RFreq.png>
+Package pdftex.def Info: 110/000to005RFreq.png used on input line 630.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+
+<110/005to000RFreq.png, id=303, 642.4pt x 481.8pt>
+File: 110/005to000RFreq.png Graphic file (type png)
+ <use 110/005to000RFreq.png>
+Package pdftex.def Info: 110/005to000RFreq.png used on input line 631.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+
+[37 <./110/000to005RFreq.png> <./110/005to000RFreq.png>]
+<111_2000/E000to005G.png, id=310, 642.4pt x 481.8pt>
+File: 111_2000/E000to005G.png Graphic file (type png)
+
+<use 111_2000/E000to005G.png>
+Package pdftex.def Info: 111_2000/E000to005G.png used on input line 646.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<111_2000/M000to005G.png, id=311, 642.4pt x 481.8pt>
+File: 111_2000/M000to005G.png Graphic file (type png)
+
+<use 111_2000/M000to005G.png>
+Package pdftex.def Info: 111_2000/M000to005G.png used on input line 647.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<111_2000/1S000to005G.png, id=312, 361.35pt x 361.35pt>
+File: 111_2000/1S000to005G.png Graphic file (type png)
+
+<use 111_2000/1S000to005G.png>
+Package pdftex.def Info: 111_2000/1S000to005G.png used on input line 652.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<111_2000/2S000to005G.png, id=313, 361.35pt x 361.35pt>
+File: 111_2000/2S000to005G.png Graphic file (type png)
+
+<use 111_2000/2S000to005G.png>
+Package pdftex.def Info: 111_2000/2S000to005G.png used on input line 653.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<111_2000/3S000to005G.png, id=314, 361.35pt x 361.35pt>
+File: 111_2000/3S000to005G.png Graphic file (type png)
+
+<use 111_2000/3S000to005G.png>
+Package pdftex.def Info: 111_2000/3S000to005G.png used on input line 654.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<111_2000/4S000to005G.png, id=315, 361.35pt x 361.35pt>
+File: 111_2000/4S000to005G.png Graphic file (type png)
+
+<use 111_2000/4S000to005G.png>
+Package pdftex.def Info: 111_2000/4S000to005G.png used on input line 655.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+ [38
+
+
+
+ <./111_2000/E000to005G.png> <./111_2000/M000to005G.png> <./111_2000/1S000to005
+G.png (PNG copy)> <./111_2000/2S000to005G.png (PNG copy)> <./111_2000/3S000to00
+5G.png (PNG copy)> <./111_2000/4S000to005G.png (PNG copy)>]
+<111_2000/000to005SpinChart.png, id=321, 703.62875pt x 990.70125pt>
+File: 111_2000/000to005SpinChart.png Graphic file (type png)
+
+<use 111_2000/000to005SpinChart.png>
+Package pdftex.def Info: 111_2000/000to005SpinChart.png used on input line 662.
+
+(pdftex.def)             Requested size: 365.88905pt x 515.16762pt.
+
+
+LaTeX Warning: Float too large for page by 4.69106pt on input line 665.
+
+[39 <./111_2000/000to005SpinChart.png>]
+<111_2000/E005to000G.png, id=325, 642.4pt x 481.8pt>
+File: 111_2000/E005to000G.png Graphic file (type png)
+
+<use 111_2000/E005to000G.png>
+Package pdftex.def Info: 111_2000/E005to000G.png used on input line 676.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<111_2000/M005to000G.png, id=326, 642.4pt x 481.8pt>
+File: 111_2000/M005to000G.png Graphic file (type png)
+
+<use 111_2000/M005to000G.png>
+Package pdftex.def Info: 111_2000/M005to000G.png used on input line 677.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<111_2000/1S005to000G.png, id=327, 361.35pt x 361.35pt>
+File: 111_2000/1S005to000G.png Graphic file (type png)
+
+<use 111_2000/1S005to000G.png>
+Package pdftex.def Info: 111_2000/1S005to000G.png used on input line 682.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+
+<111_2000/2S005to000G.png, id=328, 361.35pt x 361.35pt>
+File: 111_2000/2S005to000G.png Graphic file (type png)
+
+<use 111_2000/2S005to000G.png>
+Package pdftex.def Info: 111_2000/2S005to000G.png used on input line 683.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+
+<111_2000/3S005to000G.png, id=329, 361.35pt x 361.35pt>
+File: 111_2000/3S005to000G.png Graphic file (type png)
+
+<use 111_2000/3S005to000G.png>
+Package pdftex.def Info: 111_2000/3S005to000G.png used on input line 684.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+
+<111_2000/4S005to000G.png, id=330, 361.35pt x 361.35pt>
+File: 111_2000/4S005to000G.png Graphic file (type png)
+
+<use 111_2000/4S005to000G.png>
+Package pdftex.def Info: 111_2000/4S005to000G.png used on input line 685.
+(pdftex.def)             Requested size: 101.1773pt x 101.1773pt.
+ [40
+
+
+ <./111_2000/E005to000G.png> <./111_2000/M005to000G.png> <./111_2000/1S005to000
+G.png (PNG copy)> <./111_2000/2S005to000G.png (PNG copy)> <./111_2000/3S005to00
+0G.png (PNG copy)> <./111_2000/4S005to000G.png (PNG copy)>]
+<111_2000/005to000SpinChart.png, id=336, 526.21594pt x 679.78969pt>
+File: 111_2000/005to000SpinChart.png Graphic file (type png)
+
+<use 111_2000/005to000SpinChart.png>
+Package pdftex.def Info: 111_2000/005to000SpinChart.png used on input line 692.
+
+(pdftex.def)             Requested size: 394.661pt x 509.84102pt.
+ [41 <./111_2000/005to000SpinChart.png>]
+<HVariedData/Pictures/111TWOKIncdp.png, id=340, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/111TWOKIncdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/111TWOKIncdp.png>
+Package pdftex.def Info: HVariedData/Pictures/111TWOKIncdp.png used on input li
+ne 700.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+
+<HVariedData/Pictures/111TWOKDecdp.png, id=341, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/111TWOKDecdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/111TWOKDecdp.png>
+Package pdftex.def Info: HVariedData/Pictures/111TWOKDecdp.png used on input li
+ne 701.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+ [42 <./HVariedData/Pictures/111TWOKIncdp.png> <./HVariedData/Pictures/111TWOKD
+ecdp.png>]
+<111_2000/E000to005R.png, id=345, 642.4pt x 481.8pt>
+File: 111_2000/E000to005R.png Graphic file (type png)
+
+<use 111_2000/E000to005R.png>
+Package pdftex.def Info: 111_2000/E000to005R.png used on input line 717.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<111_2000/M000to005R.png, id=346, 642.4pt x 481.8pt>
+File: 111_2000/M000to005R.png Graphic file (type png)
+
+<use 111_2000/M000to005R.png>
+Package pdftex.def Info: 111_2000/M000to005R.png used on input line 718.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<111_2000/1S000to005R.png, id=347, 361.35pt x 361.35pt>
+File: 111_2000/1S000to005R.png Graphic file (type png)
+
+<use 111_2000/1S000to005R.png>
+Package pdftex.def Info: 111_2000/1S000to005R.png used on input line 723.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<111_2000/2S000to005R.png, id=348, 361.35pt x 361.35pt>
+File: 111_2000/2S000to005R.png Graphic file (type png)
+
+<use 111_2000/2S000to005R.png>
+Package pdftex.def Info: 111_2000/2S000to005R.png used on input line 724.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<111_2000/3S000to005R.png, id=349, 361.35pt x 361.35pt>
+File: 111_2000/3S000to005R.png Graphic file (type png)
+
+<use 111_2000/3S000to005R.png>
+Package pdftex.def Info: 111_2000/3S000to005R.png used on input line 725.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<111_2000/4S000to005R.png, id=350, 361.35pt x 361.35pt>
+File: 111_2000/4S000to005R.png Graphic file (type png)
+
+<use 111_2000/4S000to005R.png>
+Package pdftex.def Info: 111_2000/4S000to005R.png used on input line 726.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+ [43
+
+
+
+ <./111_2000/E000to005R.png> <./111_2000/M000to005R.png> <./111_2000/1S000to005
+R.png (PNG copy)> <./111_2000/2S000to005R.png (PNG copy)> <./111_2000/3S000to00
+5R.png (PNG copy)> <./111_2000/4S000to005R.png (PNG copy)>]
+<111_2000/000to005RSpinChart.png, id=357, 703.62875pt x 990.70125pt>
+File: 111_2000/000to005RSpinChart.png Graphic file (type png)
+
+<use 111_2000/000to005RSpinChart.png>
+Package pdftex.def Info: 111_2000/000to005RSpinChart.png used on input line 735
+.
+(pdftex.def)             Requested size: 365.88905pt x 515.16762pt.
+ [44 <./111_2000/000to005RSpinChart.png>]
+<111_2000/E005to000R.png, id=361, 642.4pt x 481.8pt>
+File: 111_2000/E005to000R.png Graphic file (type png)
+
+<use 111_2000/E005to000R.png>
+Package pdftex.def Info: 111_2000/E005to000R.png used on input line 752.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<111_2000/M005to000R.png, id=362, 642.4pt x 481.8pt>
+File: 111_2000/M005to000R.png Graphic file (type png)
+
+<use 111_2000/M005to000R.png>
+Package pdftex.def Info: 111_2000/M005to000R.png used on input line 753.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<111_2000/1S005to000R.png, id=363, 361.35pt x 361.35pt>
+File: 111_2000/1S005to000R.png Graphic file (type png)
+
+<use 111_2000/1S005to000R.png>
+Package pdftex.def Info: 111_2000/1S005to000R.png used on input line 758.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<111_2000/2S005to000R.png, id=364, 361.35pt x 361.35pt>
+File: 111_2000/2S005to000R.png Graphic file (type png)
+
+<use 111_2000/2S005to000R.png>
+Package pdftex.def Info: 111_2000/2S005to000R.png used on input line 759.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<111_2000/3S005to000R.png, id=365, 361.35pt x 361.35pt>
+File: 111_2000/3S005to000R.png Graphic file (type png)
+
+<use 111_2000/3S005to000R.png>
+Package pdftex.def Info: 111_2000/3S005to000R.png used on input line 760.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<111_2000/4S005to000R.png, id=366, 361.35pt x 361.35pt>
+File: 111_2000/4S005to000R.png Graphic file (type png)
+
+<use 111_2000/4S005to000R.png>
+Package pdftex.def Info: 111_2000/4S005to000R.png used on input line 761.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<111_2000/5S005to000R.png, id=367, 361.35pt x 361.35pt>
+File: 111_2000/5S005to000R.png Graphic file (type png)
+
+<use 111_2000/5S005to000R.png>
+Package pdftex.def Info: 111_2000/5S005to000R.png used on input line 762.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<111_2000/6S005to000R.png, id=368, 361.35pt x 361.35pt>
+File: 111_2000/6S005to000R.png Graphic file (type png)
+
+<use 111_2000/6S005to000R.png>
+Package pdftex.def Info: 111_2000/6S005to000R.png used on input line 763.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<111_2000/7S005to000R.png, id=369, 361.35pt x 361.35pt>
+File: 111_2000/7S005to000R.png Graphic file (type png)
+
+<use 111_2000/7S005to000R.png>
+Package pdftex.def Info: 111_2000/7S005to000R.png used on input line 764.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+
+<111_2000/8S005to000R.png, id=370, 361.35pt x 361.35pt>
+File: 111_2000/8S005to000R.png Graphic file (type png)
+
+<use 111_2000/8S005to000R.png>
+Package pdftex.def Info: 111_2000/8S005to000R.png used on input line 765.
+(pdftex.def)             Requested size: 97.5658pt x 97.5658pt.
+ [45
+
+
+ <./111_2000/E005to000R.png> <./111_2000/M005to000R.png> <./111_2000/1S005to000
+R.png (PNG copy)> <./111_2000/2S005to000R.png (PNG copy)> <./111_2000/3S005to00
+0R.png (PNG copy)> <./111_2000/4S005to000R.png (PNG copy)> <./111_2000/5S005to0
+00R.png (PNG copy)> <./111_2000/6S005to000R.png (PNG copy)> <./111_2000/7S005to
+000R.png (PNG copy)> <./111_2000/8S005to000R.png (PNG copy)>] <111_2000/1Sect00
+5to000R.png, id=376, 361.35pt x 345.29pt>
+File: 111_2000/1Sect005to000R.png Graphic file (type png)
+
+<use 111_2000/1Sect005to000R.png>
+Package pdftex.def Info: 111_2000/1Sect005to000R.png used on input line 772.
+(pdftex.def)             Requested size: 252.94327pt x 241.70134pt.
+
+<111_2000/2Sect005to000R.png, id=377, 361.35pt x 345.29pt>
+File: 111_2000/2Sect005to000R.png Graphic file (type png)
+
+<use 111_2000/2Sect005to000R.png>
+Package pdftex.def Info: 111_2000/2Sect005to000R.png used on input line 773.
+(pdftex.def)             Requested size: 252.94327pt x 241.70134pt.
+ [46 <./111_2000/1Sect005to000R.png (PNG copy)> <./111_2000/2Sect005to000R.png 
+(PNG copy)>]
+<HVariedData/Pictures/111TWOKIncdpR.png, id=381, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/111TWOKIncdpR.png Graphic file (type png)
+
+<use HVariedData/Pictures/111TWOKIncdpR.png>
+Package pdftex.def Info: HVariedData/Pictures/111TWOKIncdpR.png used on input l
+ine 782.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+
+<HVariedData/Pictures/111TWOKDecdpR.png, id=382, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/111TWOKDecdpR.png Graphic file (type png)
+
+<use HVariedData/Pictures/111TWOKDecdpR.png>
+Package pdftex.def Info: HVariedData/Pictures/111TWOKDecdpR.png used on input l
+ine 783.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+ [47 <./HVariedData/Pictures/111TWOKIncdpR.png> <./HVariedData/Pictures/111TWOK
+DecdpR.png>]
+<111_2000/005to000RSpinChart.png, id=386, 526.21594pt x 669.2503pt>
+File: 111_2000/005to000RSpinChart.png Graphic file (type png)
+
+<use 111_2000/005to000RSpinChart.png>
+Package pdftex.def Info: 111_2000/005to000RSpinChart.png used on input line 791
+.
+(pdftex.def)             Requested size: 394.661pt x 501.9365pt.
+ [48 <./111_2000/005to000RSpinChart.png>]
+<HVariedData/Increasing/111EInc.png, id=390, 642.4pt x 481.8pt>
+File: HVariedData/Increasing/111EInc.png Graphic file (type png)
+
+<use HVariedData/Increasing/111EInc.png>
+Package pdftex.def Info: HVariedData/Increasing/111EInc.png used on input line 
+804.
+(pdftex.def)             Requested size: 289.07733pt x 216.80798pt.
+
+<HVariedData/Increasing/111Minc.png, id=391, 642.4pt x 481.8pt>
+File: HVariedData/Increasing/111Minc.png Graphic file (type png)
+
+<use HVariedData/Increasing/111Minc.png>
+Package pdftex.def Info: HVariedData/Increasing/111Minc.png used on input line 
+805.
+(pdftex.def)             Requested size: 289.07733pt x 216.80798pt.
+
+<111_3000/001S000to005G.png, id=392, 361.35pt x 361.35pt>
+File: 111_3000/001S000to005G.png Graphic file (type png)
+
+<use 111_3000/001S000to005G.png>
+Package pdftex.def Info: 111_3000/001S000to005G.png used on input line 810.
+(pdftex.def)             Requested size: 115.63435pt x 115.63435pt.
+
+<111_3000/041S000to005G.png, id=393, 361.35pt x 361.35pt>
+File: 111_3000/041S000to005G.png Graphic file (type png)
+
+<use 111_3000/041S000to005G.png>
+Package pdftex.def Info: 111_3000/041S000to005G.png used on input line 811.
+(pdftex.def)             Requested size: 115.63435pt x 115.63435pt.
+
+<111_3000/056S000to005G.png, id=394, 361.35pt x 361.35pt>
+File: 111_3000/056S000to005G.png Graphic file (type png)
+
+<use 111_3000/056S000to005G.png>
+Package pdftex.def Info: 111_3000/056S000to005G.png used on input line 812.
+(pdftex.def)             Requested size: 115.63435pt x 115.63435pt.
+
+<111_3000/501S000to005G.png, id=395, 361.35pt x 361.35pt>
+File: 111_3000/501S000to005G.png Graphic file (type png)
+
+<use 111_3000/501S000to005G.png>
+Package pdftex.def Info: 111_3000/501S000to005G.png used on input line 813.
+(pdftex.def)             Requested size: 115.63435pt x 115.63435pt.
+
+<HVariedData/Pictures/111Inc46S.png, id=396, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/111Inc46S.png Graphic file (type png)
+
+<use HVariedData/Pictures/111Inc46S.png>
+Package pdftex.def Info: HVariedData/Pictures/111Inc46S.png used on input line 
+814.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/111Inc52S.png, id=397, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/111Inc52S.png Graphic file (type png)
+
+<use HVariedData/Pictures/111Inc52S.png>
+Package pdftex.def Info: HVariedData/Pictures/111Inc52S.png used on input line 
+815.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/111Inc55S.png, id=398, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/111Inc55S.png Graphic file (type png)
+
+<use HVariedData/Pictures/111Inc55S.png>
+Package pdftex.def Info: HVariedData/Pictures/111Inc55S.png used on input line 
+816.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<HVariedData/Pictures/111Inc62S.png, id=399, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/111Inc62S.png Graphic file (type png)
+
+<use HVariedData/Pictures/111Inc62S.png>
+Package pdftex.def Info: HVariedData/Pictures/111Inc62S.png used on input line 
+817.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+ [49
+
+
+
+
+ <./HVariedData/Increasing/111EInc.png> <./HVariedData/Increasing/111Minc.png>]
+ [50 <./111_3000/001S000to005G.png (PNG copy)> <./111_3000/041S000to005G.png (P
+NG copy)> <./111_3000/056S000to005G.png (PNG copy)> <./111_3000/501S000to005G.p
+ng (PNG copy)> <./HVariedData/Pictures/111Inc46S.png (PNG copy)> <./HVariedData
+/Pictures/111Inc52S.png (PNG copy)> <./HVariedData/Pictures/111Inc55S.png (PNG 
+copy)> <./HVariedData/Pictures/111Inc62S.png (PNG copy)>]
+<111_3000/000to005SpinChart.png, id=407, 657.2053pt x 527.72156pt>
+File: 111_3000/000to005SpinChart.png Graphic file (type png)
+
+<use 111_3000/000to005SpinChart.png>
+Package pdftex.def Info: 111_3000/000to005SpinChart.png used on input line 826.
+
+(pdftex.def)             Requested size: 460.04057pt x 369.40257pt.
+
+Overfull \hbox (30.03595pt too wide) in paragraph at lines 826--828
+ [][] 
+ []
+
+[51
+
+ <./111_3000/000to005SpinChart.png>]
+<HVariedData/Decreasing/111Edec.png, id=412, 642.4pt x 481.8pt>
+File: HVariedData/Decreasing/111Edec.png Graphic file (type png)
+
+<use HVariedData/Decreasing/111Edec.png>
+Package pdftex.def Info: HVariedData/Decreasing/111Edec.png used on input line 
+840.
+(pdftex.def)             Requested size: 256.95544pt x 192.71658pt.
+
+<HVariedData/Decreasing/111Mdec.png, id=413, 642.4pt x 481.8pt>
+File: HVariedData/Decreasing/111Mdec.png Graphic file (type png)
+
+<use HVariedData/Decreasing/111Mdec.png>
+Package pdftex.def Info: HVariedData/Decreasing/111Mdec.png used on input line 
+841.
+(pdftex.def)             Requested size: 256.95544pt x 192.71658pt.
+
+<HVariedData/Pictures/111Dec1.png, id=414, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/111Dec1.png Graphic file (type png)
+
+<use HVariedData/Pictures/111Dec1.png>
+Package pdftex.def Info: HVariedData/Pictures/111Dec1.png used on input line 84
+6.
+(pdftex.def)             Requested size: 144.53743pt x 144.53743pt.
+
+<HVariedData/Pictures/111Dec95.png, id=415, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/111Dec95.png Graphic file (type png)
+
+<use HVariedData/Pictures/111Dec95.png>
+Package pdftex.def Info: HVariedData/Pictures/111Dec95.png used on input line 8
+47.
+(pdftex.def)             Requested size: 144.53743pt x 144.53743pt.
+
+<HVariedData/Pictures/111Dec99.png, id=416, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/111Dec99.png Graphic file (type png)
+
+<use HVariedData/Pictures/111Dec99.png>
+Package pdftex.def Info: HVariedData/Pictures/111Dec99.png used on input line 8
+48.
+(pdftex.def)             Requested size: 144.53743pt x 144.53743pt.
+
+<HVariedData/Pictures/111Dec115.png, id=417, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/111Dec115.png Graphic file (type png)
+
+<use HVariedData/Pictures/111Dec115.png>
+Package pdftex.def Info: HVariedData/Pictures/111Dec115.png used on input line 
+849.
+(pdftex.def)             Requested size: 144.53743pt x 144.53743pt.
+
+<HVariedData/Pictures/111Dec170.png, id=418, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/111Dec170.png Graphic file (type png)
+
+<use HVariedData/Pictures/111Dec170.png>
+Package pdftex.def Info: HVariedData/Pictures/111Dec170.png used on input line 
+850.
+(pdftex.def)             Requested size: 144.53743pt x 144.53743pt.
+
+<HVariedData/Pictures/111Dec251.png, id=419, 361.35pt x 361.35pt>
+File: HVariedData/Pictures/111Dec251.png Graphic file (type png)
+
+<use HVariedData/Pictures/111Dec251.png>
+Package pdftex.def Info: HVariedData/Pictures/111Dec251.png used on input line 
+851.
+(pdftex.def)             Requested size: 144.53743pt x 144.53743pt.
+ [52
+
+ <./HVariedData/Decreasing/111Edec.png> <./HVariedData/Decreasing/111Mdec.png>]
+ [53 <./HVariedData/Pictures/111Dec1.png (PNG copy)> <./HVariedData/Pictures/11
+1Dec95.png (PNG copy)> <./HVariedData/Pictures/111Dec99.png (PNG copy)> <./HVar
+iedData/Pictures/111Dec115.png (PNG copy)> <./HVariedData/Pictures/111Dec170.pn
+g (PNG copy)> <./HVariedData/Pictures/111Dec251.png (PNG copy)>]
+<HVariedData/Pictures/111THRKIncdp.png, id=426, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/111THRKIncdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/111THRKIncdp.png>
+Package pdftex.def Info: HVariedData/Pictures/111THRKIncdp.png used on input li
+ne 858.
+(pdftex.def)             Requested size: 353.32109pt x 264.99081pt.
+
+<HVariedData/Pictures/111THRKDecdp.png, id=427, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/111THRKDecdp.png Graphic file (type png)
+
+<use HVariedData/Pictures/111THRKDecdp.png>
+Package pdftex.def Info: HVariedData/Pictures/111THRKDecdp.png used on input li
+ne 859.
+(pdftex.def)             Requested size: 353.32109pt x 264.99081pt.
+
+
+LaTeX Warning: Float too large for page by 8.50507pt on input line 861.
+
+[54 <./HVariedData/Pictures/111THRKIncdp.png> <./HVariedData/Pictures/111THRKDe
+cdp.png>] <HVariedData/compoundEM/111Ecompound.png, id=431, 642.4pt x 481.8pt>
+File: HVariedData/compoundEM/111Ecompound.png Graphic file (type png)
+
+<use HVariedData/compoundEM/111Ecompound.png>
+Package pdftex.def Info: HVariedData/compoundEM/111Ecompound.png used on input 
+line 866.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+
+<HVariedData/compoundEM/111Mcompound.png, id=432, 642.4pt x 481.8pt>
+File: HVariedData/compoundEM/111Mcompound.png Graphic file (type png)
+
+<use HVariedData/compoundEM/111Mcompound.png>
+Package pdftex.def Info: HVariedData/compoundEM/111Mcompound.png used on input 
+line 867.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+
+
+LaTeX Warning: Float too large for page by 58.63231pt on input line 870.
+
+[55 <./HVariedData/compoundEM/111Ecompound.png> <./HVariedData/compoundEM/111Mc
+ompound.png>]
+<111_3000/005to000SpinChart.png, id=437, 663.22781pt x 539.76656pt>
+File: 111_3000/005to000SpinChart.png Graphic file (type png)
+
+<use 111_3000/005to000SpinChart.png>
+Package pdftex.def Info: 111_3000/005to000SpinChart.png used on input line 875.
+
+(pdftex.def)             Requested size: 464.2563pt x 377.83401pt.
+
+Overfull \hbox (34.25168pt too wide) in paragraph at lines 875--878
+ [][] 
+ []
+
+[56
+
+
+
+ <./111_3000/005to000SpinChart.png>]
+<111_3000/E000to005R.png, id=441, 642.4pt x 481.8pt>
+File: 111_3000/E000to005R.png Graphic file (type png)
+
+<use 111_3000/E000to005R.png>
+Package pdftex.def Info: 111_3000/E000to005R.png used on input line 889.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<111_3000/M000to005R.png, id=442, 642.4pt x 481.8pt>
+File: 111_3000/M000to005R.png Graphic file (type png)
+
+<use 111_3000/M000to005R.png>
+Package pdftex.def Info: 111_3000/M000to005R.png used on input line 890.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<111_3000/001S000to005R.png, id=443, 361.35pt x 361.35pt>
+File: 111_3000/001S000to005R.png Graphic file (type png)
+
+<use 111_3000/001S000to005R.png>
+Package pdftex.def Info: 111_3000/001S000to005R.png used on input line 895.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<111_3000/033S000to005R.png, id=444, 361.35pt x 361.35pt>
+File: 111_3000/033S000to005R.png Graphic file (type png)
+
+<use 111_3000/033S000to005R.png>
+Package pdftex.def Info: 111_3000/033S000to005R.png used on input line 896.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<111_3000/041S000to005R.png, id=445, 361.35pt x 361.35pt>
+File: 111_3000/041S000to005R.png Graphic file (type png)
+
+<use 111_3000/041S000to005R.png>
+Package pdftex.def Info: 111_3000/041S000to005R.png used on input line 897.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<111_3000/069S000to005R.png, id=446, 361.35pt x 361.35pt>
+File: 111_3000/069S000to005R.png Graphic file (type png)
+
+<use 111_3000/069S000to005R.png>
+Package pdftex.def Info: 111_3000/069S000to005R.png used on input line 898.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+
+<111_3000/501S000to005R.png, id=447, 361.35pt x 361.35pt>
+File: 111_3000/501S000to005R.png Graphic file (type png)
+
+<use 111_3000/501S000to005R.png>
+Package pdftex.def Info: 111_3000/501S000to005R.png used on input line 899.
+(pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
+ [57
+
+ <./111_3000/E000to005R.png> <./111_3000/M000to005R.png> <./111_3000/001S000to0
+05R.png (PNG copy)> <./111_3000/033S000to005R.png (PNG copy)> <./111_3000/041S0
+00to005R.png (PNG copy)> <./111_3000/069S000to005R.png (PNG copy)> <./111_3000/
+501S000to005R.png (PNG copy)>]
+<111_3000/000to005RSpinChart.png, id=453, 657.2053pt x 538.26094pt>
+File: 111_3000/000to005RSpinChart.png Graphic file (type png)
+
+<use 111_3000/000to005RSpinChart.png>
+Package pdftex.def Info: 111_3000/000to005RSpinChart.png used on input line 905
+.
+(pdftex.def)             Requested size: 460.04057pt x 376.78009pt.
+
+Overfull \hbox (30.03595pt too wide) in paragraph at lines 905--907
+ [][] 
+ []
+
+[58
+
+ <./111_3000/000to005RSpinChart.png>]
+<111_3000/E005to000R.png, id=457, 642.4pt x 481.8pt>
+File: 111_3000/E005to000R.png Graphic file (type png)
+
+<use 111_3000/E005to000R.png>
+Package pdftex.def Info: 111_3000/E005to000R.png used on input line 919.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<111_3000/M005to000R.png, id=458, 642.4pt x 481.8pt>
+File: 111_3000/M005to000R.png Graphic file (type png)
+
+<use 111_3000/M005to000R.png>
+Package pdftex.def Info: 111_3000/M005to000R.png used on input line 920.
+(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+
+<111_3000/001S005to000R.png, id=459, 361.35pt x 361.35pt>
+File: 111_3000/001S005to000R.png Graphic file (type png)
+
+<use 111_3000/001S005to000R.png>
+Package pdftex.def Info: 111_3000/001S005to000R.png used on input line 925.
+(pdftex.def)             Requested size: 119.24586pt x 119.24586pt.
+
+<111_3000/172S005to000R.png, id=460, 361.35pt x 361.35pt>
+File: 111_3000/172S005to000R.png Graphic file (type png)
+
+<use 111_3000/172S005to000R.png>
+Package pdftex.def Info: 111_3000/172S005to000R.png used on input line 926.
+(pdftex.def)             Requested size: 119.24586pt x 119.24586pt.
+
+<111_3000/325S005to000R.png, id=461, 361.35pt x 361.35pt>
+File: 111_3000/325S005to000R.png Graphic file (type png)
+
+<use 111_3000/325S005to000R.png>
+Package pdftex.def Info: 111_3000/325S005to000R.png used on input line 927.
+(pdftex.def)             Requested size: 119.24586pt x 119.24586pt.
+
+<111_3000/501S005to000R.png, id=462, 361.35pt x 361.35pt>
+File: 111_3000/501S005to000R.png Graphic file (type png)
+
+<use 111_3000/501S005to000R.png>
+Package pdftex.def Info: 111_3000/501S005to000R.png used on input line 928.
+(pdftex.def)             Requested size: 119.24586pt x 119.24586pt.
+ [59
+
+ <./111_3000/E005to000R.png> <./111_3000/M005to000R.png> <./111_3000/001S005to0
+00R.png (PNG copy)> <./111_3000/172S005to000R.png (PNG copy)> <./111_3000/325S0
+05to000R.png (PNG copy)> <./111_3000/501S005to000R.png (PNG copy)>]
+<HVariedData/Pictures/111THRKIncdpR.png, id=468, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/111THRKIncdpR.png Graphic file (type png)
+
+<use HVariedData/Pictures/111THRKIncdpR.png>
+Package pdftex.def Info: HVariedData/Pictures/111THRKIncdpR.png used on input l
+ine 935.
+(pdftex.def)             Requested size: 353.32109pt x 264.99081pt.
+
+<HVariedData/Pictures/111THRKDecdpR.png, id=469, 642.4pt x 481.8pt>
+File: HVariedData/Pictures/111THRKDecdpR.png Graphic file (type png)
+
+<use HVariedData/Pictures/111THRKDecdpR.png>
+Package pdftex.def Info: HVariedData/Pictures/111THRKDecdpR.png used on input l
+ine 936.
+(pdftex.def)             Requested size: 353.32109pt x 264.99081pt.
+ [60 <./HVariedData/Pictures/111THRKIncdpR.png> <./HVariedData/Pictures/111THRK
+DecdpR.png>]
+<111_3000/005to000RSpinChart.png, id=473, 679.78969pt x 527.72156pt>
+File: 111_3000/005to000RSpinChart.png Graphic file (type png)
+
+<use 111_3000/005to000RSpinChart.png>
+Package pdftex.def Info: 111_3000/005to000RSpinChart.png used on input line 943
+.
+(pdftex.def)             Requested size: 475.84953pt x 369.40257pt.
+
+Overfull \hbox (45.84491pt too wide) in paragraph at lines 943--945
+ [][] 
+ []
+
+[61
+
+
+ <./111_3000/005to000RSpinChart.png>]
+<HVariedData/Increasing/IncreasingField.png, id=478, 642.4pt x 481.8pt>
+File: HVariedData/Increasing/IncreasingField.png Graphic file (type png)
+
+<use HVariedData/Increasing/IncreasingField.png>
+Package pdftex.def Info: HVariedData/Increasing/IncreasingField.png used on inp
+ut line 956.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+ [62
+
+ <./HVariedData/Increasing/IncreasingField.png>]
+<97pheta/3DswitchingfieldContour.png, id=482, 432.61626pt x 360.34625pt>
+File: 97pheta/3DswitchingfieldContour.png Graphic file (type png)
+
+<use 97pheta/3DswitchingfieldContour.png>
+Package pdftex.def Info: 97pheta/3DswitchingfieldContour.png used on input line
+ 969.
+(pdftex.def)             Requested size: 328.78517pt x 273.86049pt.
+ [63
+
+ <./97pheta/3DswitchingfieldContour.png (PNG copy)>]
+<VariedZdirection/Magnetizations.png, id=486, 642.4pt x 481.8pt>
+File: VariedZdirection/Magnetizations.png Graphic file (type png)
+
+<use VariedZdirection/Magnetizations.png>
+Package pdftex.def Info: VariedZdirection/Magnetizations.png used on input line
+ 989.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+ [64
+
+ <./VariedZdirection/Magnetizations.png>] <VariedZdirection/transitionZfield.pn
+g, id=491, 642.4pt x 481.8pt>
+File: VariedZdirection/transitionZfield.png Graphic file (type png)
+
+<use VariedZdirection/transitionZfield.png>
+Package pdftex.def Info: VariedZdirection/transitionZfield.png used on input li
+ne 996.
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
+
+<VariedZdirection/illustration.png, id=492, 361.35pt x 361.35pt>
+File: VariedZdirection/illustration.png Graphic file (type png)
+
+<use VariedZdirection/illustration.png>
+Package pdftex.def Info: VariedZdirection/illustration.png used on input line 9
+97.
+(pdftex.def)             Requested size: 252.94327pt x 252.94327pt.
+ [65 <./VariedZdirection/transitionZfield.png> <./VariedZdirection/illustration
+.png (PNG copy)>]
+<CollapsedDegeneracy.png, id=496, 652.4375pt x 416.55624pt>
+File: CollapsedDegeneracy.png Graphic file (type png)
+
+<use CollapsedDegeneracy.png>
+Package pdftex.def Info: CollapsedDegeneracy.png used on input line 1011.
+(pdftex.def)             Requested size: 326.21794pt x 208.2776pt.
+ [66
+
+
+ <./CollapsedDegeneracy.png (PNG copy)>]
+[67] (./Summary.aux) ) 
+Here is how much of TeX's memory you used:
+ 5573 strings out of 494367
+ 94713 string characters out of 6171616
+ 245842 words of memory out of 5000000
+ 8607 multiletter control sequences out of 15000+600000
+ 7895 words of font info for 28 fonts, out of 8000000 for 9000
+ 475 hyphenation exceptions out of 8191
+ 38i,8n,40p,1129b,278s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Summary.pdf (67 pages, 4033953 bytes).
+PDF statistics:
+ 533 PDF objects out of 1000 (max. 8388607)
+ 174 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1206 words of extra memory for PDF output out of 10000 (max. 10000000)
+

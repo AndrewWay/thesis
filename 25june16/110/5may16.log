@@ -1,0 +1,396 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.28)  24 MAY 2016 11:12
+entering extended mode
+ %&-line parsing enabled.
+**5may16.tex
+(./5may16.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2008/12/21 v4.2 Page Geometry
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@dimlist=\toks15
+)
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count90
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+(/usr/share/texmf-texlive/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.sty
+\lst@mode=\count92
+\lst@gtempboxa=\box28
+\lst@token=\toks18
+\lst@length=\count93
+\lst@currlwidth=\dimen109
+\lst@column=\count94
+\lst@pos=\count95
+\lst@lostspace=\dimen110
+\lst@width=\dimen111
+\lst@newlines=\count96
+\lst@lineno=\count97
+\lst@maxwidth=\dimen112
+
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count98
+\lst@skipnumbers=\count99
+\lst@framebox=\box29
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/share/texmf-texlive/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2005/01/26 v1.0 150 paragraphs of Lorem Ipsum dummy text
+File: lipsum.dtx 2005/01/26 v1.0 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count100
+)
+(/usr/share/texmf-texlive/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+) (./5may16.aux)
+\openout1 = `5may16.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+-------------------- Geometry parameters
+paper: class default
+landscape: --
+twocolumn: --
+twoside: --
+asymmetric: --
+h-parts: 92.14519pt, 0.7\paperwidth , 92.14519pt (default)
+v-parts: 95.39737pt, 0.7\paperheight , 143.09605pt (default)
+hmarginratio: 1:1
+vmarginratio: 2:3
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  614.295pt
+\paperheight 794.96999pt
+\textwidth  430.00462pt
+\textheight 556.47656pt
+\oddsidemargin  19.8752pt
+\evensidemargin 19.8752pt
+\topmargin  -13.87262pt
+\headheight 12.0pt
+\headsep    25.0pt
+\footskip   30.0pt
+\marginparwidth 65.0pt
+\marginparsep   11.0pt
+\columnsep  10.0pt
+\skip\footins  9.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen113
+\scratchbox=\box30
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen114
+\MPnumerator=\count105
+\everyMPtoPDFconversion=\toks20
+)
+\c@lstlisting=\count106
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 67.
+ (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] <E000to005G.png, id=9, 642
+.4pt x 481.8pt>
+File: E000to005G.png Graphic file (type png)
+
+<use E000to005G.png> <M000to005G.png, id=10, 642.4pt x 481.8pt>
+File: M000to005G.png Graphic file (type png)
+
+<use M000to005G.png> <1S000to005G.png, id=11, 361.35pt x 361.35pt>
+File: 1S000to005G.png Graphic file (type png)
+
+<use 1S000to005G.png> <47S000to005G.png, id=12, 361.35pt x 361.35pt>
+File: 47S000to005G.png Graphic file (type png)
+
+<use 47S000to005G.png> <53S000to005G.png, id=13, 361.35pt x 361.35pt>
+File: 53S000to005G.png Graphic file (type png)
+
+<use 53S000to005G.png> <83S000to005G.png, id=14, 361.35pt x 361.35pt>
+File: 83S000to005G.png Graphic file (type png)
+
+<use 83S000to005G.png> <92S000to005G.png, id=15, 361.35pt x 361.35pt>
+File: 92S000to005G.png Graphic file (type png)
+
+<use 92S000to005G.png> <98S000to005G.png, id=16, 361.35pt x 361.35pt>
+File: 98S000to005G.png Graphic file (type png)
+
+<use 98S000to005G.png> <501S000to005G.png, id=17, 361.35pt x 361.35pt>
+File: 501S000to005G.png Graphic file (type png)
+
+<use 501S000to005G.png> <azim000to005.png, id=18, 642.4pt x 481.8pt>
+File: azim000to005.png Graphic file (type png)
+
+<use azim000to005.png> <zen000to005.png, id=19, 642.4pt x 481.8pt>
+File: zen000to005.png Graphic file (type png)
+
+<use zen000to005.png> <Sfreq000to005G.png, id=20, 642.4pt x 481.8pt>
+File: Sfreq000to005G.png Graphic file (type png)
+
+<use Sfreq000to005G.png> [2 <./E000to005G.png (PNG copy)> <./M000to005G.png (PN
+G copy)> <./1S000to005G.png (PNG copy)> <./47S000to005G.png (PNG copy)> <./53S0
+00to005G.png (PNG copy)> <./83S000to005G.png (PNG copy)> <./92S000to005G.png (P
+NG copy)> <./98S000to005G.png (PNG copy)> <./501S000to005G.png (PNG copy)>]
+[3 <./azim000to005.png (PNG copy)> <./zen000to005.png (PNG copy)>] [4 <./Sfreq0
+00to005G.png (PNG copy)>] <E005to000G.png, id=36, 642.4pt x 481.8pt>
+File: E005to000G.png Graphic file (type png)
+
+<use E005to000G.png> <M005to000G.png, id=37, 642.4pt x 481.8pt>
+File: M005to000G.png Graphic file (type png)
+
+<use M005to000G.png> <1S005to000G.png, id=38, 361.35pt x 361.35pt>
+File: 1S005to000G.png Graphic file (type png)
+
+<use 1S005to000G.png> <83S005to000G.png, id=39, 361.35pt x 361.35pt>
+File: 83S005to000G.png Graphic file (type png)
+
+<use 83S005to000G.png> <344S005to000G.png, id=40, 361.35pt x 361.35pt>
+File: 344S005to000G.png Graphic file (type png)
+
+<use 344S005to000G.png> <501S005to000G.png, id=41, 361.35pt x 361.35pt>
+File: 501S005to000G.png Graphic file (type png)
+
+<use 501S005to000G.png> <azim005to000.png, id=42, 642.4pt x 481.8pt>
+File: azim005to000.png Graphic file (type png)
+
+<use azim005to000.png> <zen005to000.png, id=43, 642.4pt x 481.8pt>
+File: zen005to000.png Graphic file (type png)
+
+<use zen005to000.png> <Sfreq005to000G.png, id=44, 642.4pt x 481.8pt>
+File: Sfreq005to000G.png Graphic file (type png)
+
+<use Sfreq005to000G.png> [5 <./E005to000G.png (PNG copy)> <./M005to000G.png (PN
+G copy)> <./1S005to000G.png (PNG copy)> <./83S005to000G.png (PNG copy)> <./344S
+005to000G.png (PNG copy)> <./501S005to000G.png (PNG copy)>] [6 <./azim005to000.
+png (PNG copy)> <./zen005to000.png (PNG copy)>] [7 <./Sfreq005to000G.png (PNG c
+opy)>] <E000to005R.png, id=60, 642.4pt x 481.8pt>
+File: E000to005R.png Graphic file (type png)
+ <use E000to005R.png>
+<M000to005R.png, id=61, 642.4pt x 481.8pt>
+File: M000to005R.png Graphic file (type png)
+ <use M000to005R.png>
+<1S000to005R.png, id=62, 361.35pt x 361.35pt>
+File: 1S000to005R.png Graphic file (type png)
+ <use 1S000to005R.png>
+<33S000to005R.png, id=63, 361.35pt x 361.35pt>
+File: 33S000to005R.png Graphic file (type png)
+ <use 33S000to005R.png>
+<42S000to005R.png, id=64, 361.35pt x 361.35pt>
+File: 42S000to005R.png Graphic file (type png)
+ <use 42S000to005R.png>
+<69S000to005R.png, id=65, 361.35pt x 361.35pt>
+File: 69S000to005R.png Graphic file (type png)
+ <use 69S000to005R.png>
+<76S000to005R.png, id=66, 361.35pt x 361.35pt>
+File: 76S000to005R.png Graphic file (type png)
+ <use 76S000to005R.png>
+<82S000to005R.png, id=67, 361.35pt x 361.35pt>
+File: 82S000to005R.png Graphic file (type png)
+ <use 82S000to005R.png>
+<501S000to005R.png, id=68, 361.35pt x 361.35pt>
+File: 501S000to005R.png Graphic file (type png)
+ <use 501S000to005R.png>
+<azim000to005R.png, id=69, 642.4pt x 481.8pt>
+File: azim000to005R.png Graphic file (type png)
+ <use azim000to005R.png>
+<zen000to005R.png, id=70, 642.4pt x 481.8pt>
+File: zen000to005R.png Graphic file (type png)
+ <use zen000to005R.png> [8 <./E000to005R.png (PNG copy)> <./M000to005R.png (PNG
+ copy)> <./1S000to005R.png (PNG copy)> <./33S000to005R.png (PNG copy)> <./42S00
+0to005R.png (PNG copy)> <./69S000to005R.png (PNG copy)> <./76S000to005R.png (PN
+G copy)> <./82S000to005R.png (PNG copy)> <./501S000to005R.png (PNG copy)>] [9 <
+./azim000to005R.png (PNG copy)> <./zen000to005R.png (PNG copy)>] <Sfreq000to005
+R.png, id=81, 642.4pt x 481.8pt>
+File: Sfreq000to005R.png Graphic file (type png)
+
+<use Sfreq000to005R.png> [10 <./Sfreq000to005R.png (PNG copy)>]
+<E005to000R.png, id=86, 642.4pt x 481.8pt>
+File: E005to000R.png Graphic file (type png)
+ <use E005to000R.png>
+<M005to000R.png, id=87, 642.4pt x 481.8pt>
+File: M005to000R.png Graphic file (type png)
+ <use M005to000R.png>
+<1S005to000R.png, id=88, 361.35pt x 361.35pt>
+File: 1S005to000R.png Graphic file (type png)
+ <use 1S005to000R.png>
+<244S005to000R.png, id=89, 361.35pt x 361.35pt>
+File: 244S005to000R.png Graphic file (type png)
+ <use 244S005to000R.png>
+<277S005to000R.png, id=90, 361.35pt x 361.35pt>
+File: 277S005to000R.png Graphic file (type png)
+ <use 277S005to000R.png>
+<280S005to000R.png, id=91, 361.35pt x 361.35pt>
+File: 280S005to000R.png Graphic file (type png)
+ <use 280S005to000R.png>
+<281S005to000R.png, id=92, 361.35pt x 361.35pt>
+File: 281S005to000R.png Graphic file (type png)
+ <use 281S005to000R.png>
+<283S005to000R.png, id=93, 361.35pt x 361.35pt>
+File: 283S005to000R.png Graphic file (type png)
+ <use 283S005to000R.png>
+<284S005to000R.png, id=94, 361.35pt x 361.35pt>
+File: 284S005to000R.png Graphic file (type png)
+ <use 284S005to000R.png>
+<285S005to000R.png, id=95, 361.35pt x 361.35pt>
+File: 285S005to000R.png Graphic file (type png)
+ <use 285S005to000R.png>
+<501S005to000R.png, id=96, 361.35pt x 361.35pt>
+File: 501S005to000R.png Graphic file (type png)
+ <use 501S005to000R.png>
+<501AltS005to000R.png, id=97, 361.35pt x 361.35pt>
+File: 501AltS005to000R.png Graphic file (type png)
+ <use 501AltS005to000R.png>
+<azim005to000R.png, id=98, 642.4pt x 481.8pt>
+File: azim005to000R.png Graphic file (type png)
+ <use azim005to000R.png>
+<zen005to000R.png, id=99, 642.4pt x 481.8pt>
+File: zen005to000R.png Graphic file (type png)
+ <use zen005to000R.png>
+<Sfreq005to000R.png, id=100, 642.4pt x 481.8pt>
+File: Sfreq005to000R.png Graphic file (type png)
+ <use Sfreq005to000R.png>
+[11 <./E005to000R.png (PNG copy)> <./M005to000R.png (PNG copy)> <./1S005to000R.
+png (PNG copy)> <./244S005to000R.png (PNG copy)> <./277S005to000R.png (PNG copy
+)> <./280S005to000R.png (PNG copy)> <./281S005to000R.png (PNG copy)> <./283S005
+to000R.png (PNG copy)> <./284S005to000R.png (PNG copy)> <./285S005to000R.png (P
+NG copy)> <./501S005to000R.png (PNG copy)> <./501AltS005to000R.png (PNG copy)>]
+[12 <./azim005to000R.png (PNG copy)> <./zen005to000R.png (PNG copy)>] [13 <./Sf
+req005to000R.png (PNG copy)>] [14] (./5may16.aux) ) 
+Here is how much of TeX's memory you used:
+ 3475 strings out of 495061
+ 48222 string characters out of 1182621
+ 222385 words of memory out of 3000000
+ 6611 multiletter control sequences out of 15000+50000
+ 5714 words of font info for 21 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 26i,8n,40p,304b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fo
+nts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on 5may16.pdf (14 pages, 528555 bytes).
+PDF statistics:
+ 140 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 241 words of extra memory for PDF output out of 10000 (max. 10000000)
+

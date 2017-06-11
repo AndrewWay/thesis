@@ -1,0 +1,58 @@
+PDF Things to do
+(100) Increasing Field, Ground State
+	Plot a subsection of the lattice spins (Cancel)
+	Fix the axes on the unique spin plot 
+	Fix the axes on the dot product plot
+	Redo 6 Spin Snapshots
+	Graph at end of section showing all energies on same graph, and another with all mags
+(100) Decreasing Field, Ground State
+	
+
+
+
+enumerated run details
+
+    \begin{enumerate}
+     \item \textbf{Increasing} magnetic field in the \textbf{001} direction from \textbf{0.00 to 0.0150},
+     with an initial spin configuration that was a \textbf{ground state}.
+     \item \textbf{Increasing} magnetic field in the \textbf{010} direction from \textbf{0.00 to 0.0150},
+     with an initial spin configuration that was a \textbf{ground state}.
+     \item \textbf{Decreasing} magnetic field in the \textbf{011} direction from \textbf{0.00 to 0.0150},
+     with an initial spin configuration that was a \textbf{ground state}.
+     \item \textbf{Increasing} magnetic field in the \textbf{100} direction from \textbf{0.00 to 0.05},
+     with an initial spin configuration that was a \textbf{ground state}.
+     \item \textbf{Increasing} magnetic field in the \textbf{100} direction from \textbf{0.00 to 0.05},
+     with an initial spin configuration that was \textbf{randomly generated}.
+     \item \textbf{Decreasing} magnetic field in the \textbf{100} direction from \textbf{0.05 to 0.00},
+     with an initial spin configuration that was a \textbf{ground state}.
+     \item \textbf{Decreasing} magnetic field in the \textbf{100} direction from \textbf{0.05 to 0.00},
+     with an initial spin configuration that was \textbf{randomly generated}.
+     \item \textbf{Increasing} magnetic field in the \textbf{101} direction from \textbf{0.00 to 0.0150},
+     with an initial spin configuration that was a \textbf{ground state}.
+     \item \textbf{Increasing} magnetic field in the \textbf{110} direction from \textbf{0.00 to 0.05},
+     with an initial spin configuration that was a \textbf{ground state}.
+     \item \textbf{Increasing} magnetic field in the \textbf{110} direction from \textbf{0.00 to 0.05},
+     with an initial spin configuration that was \textbf{randomly generated}.
+     \item \textbf{Decreasing} magnetic field in the \textbf{110} direction from \textbf{0.05 to 0.00},
+     with an initial spin configuration that was a \textbf{ground state}.
+     \item \textbf{Decreasing} magnetic field in the \textbf{110} direction from \textbf{0.05 to 0.00},
+     with an initial spin configuration that was \textbf{randomly generated}.
+     spin configuration that was \textbf{randomly generated}.
+     \item \textbf{Increasing} magnetic field in the \textbf{111} direction from \textbf{0.00 to 0.05},
+     with an initial spin configuration that was a \textbf{ground state} (2000 iterations).
+     \item \textbf{Increasing} magnetic field in the \textbf{111} direction from \textbf{0.00 to 0.05},
+     with an initial spin configuration that was \textbf{randomly generated} (2000 iterations).
+     \item \textbf{Decreasing} magnetic field in the \textbf{111} direction from \textbf{0.05 to 0.00},
+     with an initial spin configuration that was a \textbf{ground state} (2000 iterations).
+     \item \textbf{Decreasing} magnetic field in the \textbf{111} direction from \textbf{0.05 to 0.00},
+     with an initial spin configuration that was \textbf{randomly generated} (2000 iterations).
+     \item \textbf{Increasing} magnetic field in the \textbf{111} direction from \textbf{0.00 to 0.05},
+     with an initial spin configuration that was a \textbf{ground state} (3000 iterations).
+     \item \textbf{Increasing} magnetic field in the \textbf{111} direction from \textbf{0.00 to 0.05},
+     with an initial spin configuration that was \textbf{randomly generated} (3000 iterations).
+     \item \textbf{Decreasing} magnetic field in the \textbf{111} direction from \textbf{0.05 to 0.00},
+     with an initial spin configuration that was a \textbf{ground state} (3000 iterations).
+     \item \textbf{Decreasing} magnetic field in the \textbf{111} direction from \textbf{0.05 to 0.00},
+     with an initial spin configuration that was \textbf{randomly generated} (3000 iterations).
+     
+    \end{enumerate}

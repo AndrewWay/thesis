@@ -1,0 +1,18 @@
+    \documentclass[11pt]{article}
+    \usepackage[T1]{fontenc}
+    \usepackage{mwe}    % loads »blindtext« and »graphicx«
+    \usepackage{subfig}
+
+    \begin{document}
+      \begin{figure}[!ht]
+        \subfloat[First sub-figure\label{subfig-1:dummy}]{%
+          \includegraphics[width=0.45\textwidth]{Top.png}
+        }
+        \hfill
+        \subfloat[First sub-figure\label{subfig-2:dummy}]{%
+          \includegraphics[width=0.45\textwidth]{Back.png}
+        }
+        \caption{Dummy figure}
+        \label{fig:dummy}
+      \end{figure}
+    \end{document}
