@@ -1,7 +1,7 @@
 \chapter{Another chapter}\label{ch:results}
 
 \section{Ground State Degeneracy}
-In this chapter results of simulations on the dipolar kagome lattice are presented. EFM simulations reveal a many-fold degenerate ground state allowing zero-temperature states that consist of six unique spins. Ground states obtained through the EFM simulation exhibit a six-sublattice structure; three of the sublattices contain spins that are the negatives of the spins on the remaining three sublattices. The spins alternate in direction along the [1,1,1] direction.
+In this chapter results of simulations on the dipolar kagome lattice are presented. EFM simulations reveal a many-fold degenerate ground state allowing zero-temperature states comprising a six-sublattice structure; three of the sublattices contain spins that are the negatives of the spins on the remaining three sublattices. The spins alternate in direction along the [1,1,1] direction.
 
 \begin{figure}
 	\includegraphics[width=\linewidth]{img/3dfcc.png}
@@ -37,9 +37,11 @@ This set of equations acts as elementary building blocks for the components of t
 $$\overrightarrow{a} = (\alpha, \beta, \chi)$$
 $$\overrightarrow{b} = (\delta, \epsilon, -\alpha)$$
 $$\overrightarrow{c} = (-\epsilon, -\chi-\delta, \beta)$$
-$$\overrightarrow{d} =-\overrightarrow(a)$$
-$$\overrightarrow{e} =-\overrightarrow(b)$$
-$$\overrightarrow{f} =-\overrightarrow(c)$$
+$$\overrightarrow{d} =-\overrightarrow{a}$$
+$$\overrightarrow{e} =-\overrightarrow{b}$$
+$$\overrightarrow{f} =-\overrightarrow{c}$$
+
+\clearpage
 
 \begin{figure}
 	\includegraphics[width=\linewidth]{img/degeneracyplanefull.png}
@@ -48,7 +50,7 @@ $$\overrightarrow{f} =-\overrightarrow(c)$$
 \end{figure}
 
 
-Any theta and phi will give rise to a valid ground state of the same energy with the exception of those pairs of theta and phi that lie within the bound region of the graph. Within the bound region of the graph, e = √(1–a²–d²) ∈ ℂ. At each node of each bound area, d = (2a²–1)/2c → ±0/0.
+Any theta and phi pair chosen from the plane in figure \ref{fig:degenplanefull} will give rise to a valid ground state of the same energy with the exception of those pairs of theta and phi that lie within the bound region of the graph. Within the bound region of the graph, e = √(1–a²–d²) ∈ ℂ. At each node of each bound area, d = (2a²–1)/2c → ±0/0.
 
 \begin{figure}
 	\includegraphics[width=\linewidth]{img/degeneracyplane.png}
@@ -60,13 +62,18 @@ It is possible to reduce the size of this graph to 1/16 the size by showing that
 \clearpage
 
 \subsection{Visualization of the Ground State}
+
+By generating the spin vectors described by equations \ref{eqn:rel_a},\ref{eqn:rel_b},\ref{eqn:rel_c},\ref{eqn:rel_d}, and \ref{eqn:rel_e}, spin configurations ranging from planar to non-planar states can be obtained. An example of a non-planar state is shown in figure \ref{fig:sampgs}.
+
 \begin{figure}[ht]
-	\includegraphics[scale=1.2]{img/samplegs.png}
+	%TODO Change this image with a better one
+	\centering
+	\includegraphics[scale=0.9]{img/samplegs.png}
 	\caption{The six sublattice spins conjoined at their ends for clarity and illustration. The vector denoting <1,1,1> axis of symmetry is illustrated in black}
 	\label{fig:sampgs}
 \end{figure}
 
-By generating the spin vectors described by the !!!equations!!!, spin configurations ranging from planar to non-planar states can be obtained. The following contour plot illustrates the volume of a parallelopiped formed by a spin configuration corresponding to a particular $\theta$ and $\phi$ on the plane of the plot. It is from this illustration that one can obtain an understanding of what choices of $\theta$ and $\phi$ result in planar states or non-planar states.
+To gain insight into what choices of $\theta$ and $\phi$ pairs give rise to particular states, consider the contour plot in fig. \ref{fig:gsvol}. The contour plot illustrates the volume of a parallelopiped formed by the a, b, and c spin vectors corresponding to a particular $\theta$ and $\phi$ chosen from fig. \ref{fig:degenplane}. It is from this illustration that one can obtain an understanding of what choices of $\theta$ and $\phi$ result in planar states or non-planar states.
 
 
 \begin{figure}[ht]
@@ -76,12 +83,17 @@ By generating the spin vectors described by the !!!equations!!!, spin configurat
 \end{figure}
 \clearpage
 
-The following plots illustrate some of the possible spin configurations that result from particular choices of $\theta$ and $\phi$. 
+\begin{figure}[ht]
+\centering
+	\includegraphics[scale=1.3]{img/th2-3108_phi0-27_plane.png}
+	\caption{A contour plot of volume of a parallelepiped with respect to theta and phi. The point corresponding to theta=2.3108 and phi=0.27 is highlighted in green.}
+	\label{fig:volplane_ex}
+\end{figure}
+
+As an example, the point corresponding to a planar state located at the point $\theta$=2.3108 and $\phi$=0.27 was chosen, as shown in fig. \ref{fig:volplane_ex}.
 
 \begin{figure}
-	\includegraphics[scale=1]{img/th2-3108_phi0-27_plane.png}
-\end{figure}
-\begin{figure}
+  \label{fig:volplaneex_vecs}
   \begin{minipage}[b]{0.5\linewidth}
     \centering
     \includegraphics[width=.8\linewidth]{img/th2-3108_phi0-27_view1.png} 
@@ -106,7 +118,10 @@ The following plots illustrate some of the possible spin configurations that res
     \caption{View 4} 
     \vspace{4ex}
   \end{minipage} 
+  \caption{Four different perspectives of the same spin configuration corresponding to theta=2.3108 and phi=0.27}
 \end{figure}
+
+Using equations \eqref{eqn:rel_a},\eqref{eqn:rel_b},\eqref{eqn:rel_c},\eqref{eqn:rel_d}, and \eqref{eqn:rel_e}, the vectors were conjoined as shown in fig. \ref{fig:volplaneex_vecs}.
 
 \clearpage
 \subsection{Planar Ground States}

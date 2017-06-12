@@ -8,16 +8,20 @@
 \contentsline {figure}{\numberline {3.3}{\ignorespaces One section of the original degeneracy plane that is equivalent to all other sections of the plane due to symmetry operations.}}{10}{figure.3.3}
 \contentsline {figure}{\numberline {3.4}{\ignorespaces The six sublattice spins conjoined at their ends for clarity and illustration. The vector denoting <1,1,1> axis of symmetry is illustrated in black}}{11}{figure.3.4}
 \contentsline {figure}{\numberline {3.5}{\ignorespaces A contour plot of volume of a parallelopiped formed by a spin configuration with respect to $\theta $ and $\phi $ }}{12}{figure.3.5}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces View 1}}{14}{figure.3.6}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces View 2}}{14}{figure.3.7}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces View 3}}{14}{figure.3.8}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces View 4}}{14}{figure.3.9}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Contour plot of parallelepiped volume with the perimeter of a circle shown in green.}}{15}{figure.3.10}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces A curve of magnetization with respect to changing magnetic field magnitude of a magnetic field oriented along the y-axis.}}{17}{figure.3.11}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Snap shots of the 6 characteristic spins at H=0, 0.0105, 0.0121, 0.0150, 0.131, 0.151. The black arrow indicates the direction of the field. In the dot product graph, AB dot product goes to zero once the lattice is saturated. This agrees with A and B (red and green) lining up in the above snapshots.}}{19}{figure.3.12}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Snapshots at H=0.215, 0.132, 0.130, 0}}{20}{figure.3.13}
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Composite graphs of energy and magnetization for both decreasing and increasing field magnitude. Note the different scales for the energy and magnetization graph. This is because plotting energy vs field on a graph which has an xrange of 0.2 reduces the ability to see any difference in the energy curves. This was done for all composite graphs.}}{21}{figure.3.14}
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Snapshots at H=0, 0.0066, 0.0082, 0.0094, 0.115, 0.167}}{22}{figure.3.15}
-\contentsline {figure}{\numberline {3.16}{\ignorespaces Snapshots at H=0.215, 0.134, 0.094, 0}}{23}{figure.3.16}
-\contentsline {figure}{\numberline {3.17}{\ignorespaces Magnetization curves starting with the same ground state and subjected to fields of various directions}}{24}{figure.3.17}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces A contour plot of volume of a parallelepiped with respect to theta and phi. The point corresponding to theta=2.3108 and phi=0.27 is highlighted in green.}}{13}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces View 1}}{14}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces View 2}}{14}{figure.3.8}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces View 3}}{14}{figure.3.9}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces View 4}}{14}{figure.3.10}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Four different perspectives of the same spin configuration corresponding to theta=2.3108 and phi=0.27}}{14}{figure.3.11}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Contour plot of parallelepiped volume with the perimeter of a circle shown in green.}}{15}{figure.3.12}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces A curve of magnetization with respect to changing magnetic field magnitude of a magnetic field oriented along the y-axis.}}{17}{figure.3.13}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Snap shots of the 6 characteristic spins at H=0, 0.0105, 0.0121, 0.0150, 0.131, 0.151. The black arrow indicates the direction of the field. In the dot product graph, AB dot product goes to zero once the lattice is saturated. This agrees with A and B (red and green) lining up in the above snapshots.}}{19}{figure.3.14}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Snapshots at H=0.215, 0.132, 0.130, 0}}{20}{figure.3.15}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Composite graphs of energy and magnetization for both decreasing and increasing field magnitude. Note the different scales for the energy and magnetization graph. This is because plotting energy vs field on a graph which has an xrange of 0.2 reduces the ability to see any difference in the energy curves. This was done for all composite graphs.}}{21}{figure.3.16}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Snapshots at H=0, 0.0066, 0.0082, 0.0094, 0.115, 0.167}}{22}{figure.3.17}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Snapshots at H=0.215, 0.134, 0.094, 0}}{23}{figure.3.18}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Magnetization curves starting with the same ground state and subjected to fields of various directions}}{24}{figure.3.19}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces The ground state plane with an array of points selected to generate the starting states for independent degaussing simulations.}}{25}{figure.3.20}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces The final states following degaussing. All states are within the planar region of the plane.}}{26}{figure.3.21}
 \addvspace {10\p@ }
