@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.5.20)  12 JUN 2017 20:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.5.20)  13 JUN 2017 22:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1534,8 +1534,8 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 \tf@lof=\write10
 \openout10 = `Memorial_University_thesis_one_bibliography.lof'.
 
- [8] [9]
-(./abbreviations.tex) [10
+ [8]
+(./abbreviations.tex) [9
 
 ] (./intro.tex
 Chapter 1.
@@ -1560,7 +1560,7 @@ LaTeX Warning: Citation `McGhee' on page 4 undefined on input line 11.
 [4
 
 ]
-<640px-Atomic_force_microscope_block_diagram.png, id=322, 481.8pt x 497.60907pt
+<640px-Atomic_force_microscope_block_diagram.png, id=315, 481.8pt x 497.60907pt
 >
 File: 640px-Atomic_force_microscope_block_diagram.png Graphic file (type png)
  <use 640px-Atomic_force_microscope_block_diagram.png>
@@ -1570,7 +1570,7 @@ n input line 38.
 ) (./results.tex
 [5 <./640px-Atomic_force_microscope_block_diagram.png>]
 Chapter 3.
-<img/3dfcc.png, id=329, 578.16pt x 600.2425pt>
+<img/3dfcc.png, id=322, 578.16pt x 600.2425pt>
 File: img/3dfcc.png Graphic file (type png)
  <use img/3dfcc.png>
 Package pdftex.def Info: img/3dfcc.png used on input line 7.
@@ -1580,7 +1580,7 @@ Package pdftex.def Info: img/3dfcc.png used on input line 7.
 ] [7 <./img/3dfcc.png>] [8
 
 ]
-<img/degeneracyplanefull.png, id=347, 704.6325pt x 452.69125pt>
+<img/degeneracyplanefull.png, id=340, 704.6325pt x 452.69125pt>
 File: img/degeneracyplanefull.png Graphic file (type png)
 
 <use img/degeneracyplanefull.png>
@@ -1599,7 +1599,7 @@ File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-33.def
 File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
 )
-<img/degeneracyplane.png, id=349, 777.90625pt x 485.815pt>
+<img/degeneracyplane.png, id=342, 777.90625pt x 485.815pt>
 File: img/degeneracyplane.png Graphic file (type png)
 
 <use img/degeneracyplane.png>
@@ -1609,13 +1609,13 @@ Package pdftex.def Info: img/degeneracyplane.png used on input line 56.
 
  <./img/degeneracyplanefull.png (PNG copy)>]
 [10 <./img/degeneracyplane.png (PNG copy)>]
-<img/samplegs.png, id=366, 301.125pt x 250.9375pt>
+<img/samplegs.png, id=359, 301.125pt x 250.9375pt>
 File: img/samplegs.png Graphic file (type png)
  <use img/samplegs.png>
 Package pdftex.def Info: img/samplegs.png used on input line 71.
 (pdftex.def)             Requested size: 271.00998pt x 225.84164pt.
 
-<img/groundstatevol.png, id=369, 470.50781pt x 397.485pt>
+<img/groundstatevol.png, id=362, 470.50781pt x 397.485pt>
 File: img/groundstatevol.png Graphic file (type png)
 
 <use img/groundstatevol.png>
@@ -1624,7 +1624,7 @@ Package pdftex.def Info: img/groundstatevol.png used on input line 80.
  [11
 
  <./img/samplegs.png (PNG copy)>] [12 <./img/groundstatevol.png (PNG copy)>]
-<img/th2-3108_phi0-27_plane.png, id=378, 341.275pt x 200.75pt>
+<img/th2-3108_phi0-27_plane.png, id=371, 341.275pt x 200.75pt>
 File: img/th2-3108_phi0-27_plane.png Graphic file (type png)
 
 <use img/th2-3108_phi0-27_plane.png>
@@ -1635,14 +1635,14 @@ Overfull \hbox (8.61487pt too wide) in paragraph at lines 88--89
  [][] 
  []
 
-<img/th2-3108_phi0-27_view1.png, id=380, 301.125pt x 200.75pt>
+<img/th2-3108_phi0-27_view1.png, id=373, 301.125pt x 200.75pt>
 File: img/th2-3108_phi0-27_view1.png Graphic file (type png)
 
 <use img/th2-3108_phi0-27_view1.png>
 Package pdftex.def Info: img/th2-3108_phi0-27_view1.png used on input line 99.
 (pdftex.def)             Requested size: 174.01768pt x 116.01541pt.
 
-<img/th2-3108_phi0-27_view2.png, id=381, 301.125pt x 301.125pt>
+<img/th2-3108_phi0-27_view2.png, id=374, 301.125pt x 301.125pt>
 File: img/th2-3108_phi0-27_view2.png Graphic file (type png)
 
 <use img/th2-3108_phi0-27_view2.png>
@@ -1650,7 +1650,7 @@ Package pdftex.def Info: img/th2-3108_phi0-27_view2.png used on input line 105.
 
 (pdftex.def)             Requested size: 108.76064pt x 108.75871pt.
 
-<img/th2-3108_phi0-27_view3.png, id=382, 301.125pt x 301.125pt>
+<img/th2-3108_phi0-27_view3.png, id=375, 301.125pt x 301.125pt>
 File: img/th2-3108_phi0-27_view3.png Graphic file (type png)
 
 <use img/th2-3108_phi0-27_view3.png>
@@ -1658,7 +1658,7 @@ Package pdftex.def Info: img/th2-3108_phi0-27_view3.png used on input line 111.
 
 (pdftex.def)             Requested size: 108.76064pt x 108.75871pt.
 
-<img/th2-3108_phi0-27_view4.png, id=383, 301.125pt x 301.125pt>
+<img/th2-3108_phi0-27_view4.png, id=376, 301.125pt x 301.125pt>
 File: img/th2-3108_phi0-27_view4.png Graphic file (type png)
 
 <use img/th2-3108_phi0-27_view4.png>
@@ -1670,89 +1670,89 @@ Package pdftex.def Info: img/th2-3108_phi0-27_view4.png used on input line 117.
  <./img/th2-3108_phi0-27_plane.png (PNG copy)>] [14 <./img/th2-3108_phi0-27_vie
 w1.png (PNG copy)> <./img/th2-3108_phi0-27_view2.png (PNG copy)> <./img/th2-310
 8_phi0-27_view3.png (PNG copy)> <./img/th2-3108_phi0-27_view4.png (PNG copy)>]
-<img/groundstatevol_withplanarborder.png, id=398, 361.35pt x 351.3125pt>
+<img/groundstatevol_withplanarborder.png, id=391, 361.35pt x 351.3125pt>
 File: img/groundstatevol_withplanarborder.png Graphic file (type png)
 
 <use img/groundstatevol_withplanarborder.png>
 Package pdftex.def Info: img/groundstatevol_withplanarborder.png used on input 
-line 141.
+line 142.
 (pdftex.def)             Requested size: 217.52129pt x 211.48064pt.
  [15
 
  <./img/groundstatevol_withplanarborder.png (PNG copy)>] <img/magneticphases.pn
-g, id=407, 642.4pt x 481.8pt>
+g, id=399, 642.4pt x 481.8pt>
 File: img/magneticphases.png Graphic file (type png)
 
 <use img/magneticphases.png>
-Package pdftex.def Info: img/magneticphases.png used on input line 157.
+Package pdftex.def Info: img/magneticphases.png used on input line 158.
 (pdftex.def)             Requested size: 449.67694pt x 337.25769pt.
 
-Overfull \hbox (14.63437pt too wide) in paragraph at lines 157--158
+Overfull \hbox (14.63437pt too wide) in paragraph at lines 158--159
 [][] 
  []
 
-<25june16/HVariedData/Increasing/001Einc.png, id=408, 642.4pt x 481.8pt>
+<25june16/HVariedData/Increasing/001Einc.png, id=401, 642.4pt x 481.8pt>
 File: 25june16/HVariedData/Increasing/001Einc.png Graphic file (type png)
 
 <use 25june16/HVariedData/Increasing/001Einc.png>
 Package pdftex.def Info: 25june16/HVariedData/Increasing/001Einc.png used on in
-put line 174.
+put line 173.
 (pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
 
-<25june16/HVariedData/Increasing/001Minc.png, id=409, 642.4pt x 481.8pt>
+<25june16/HVariedData/Increasing/001Minc.png, id=402, 642.4pt x 481.8pt>
 File: 25june16/HVariedData/Increasing/001Minc.png Graphic file (type png)
 
 <use 25june16/HVariedData/Increasing/001Minc.png>
 Package pdftex.def Info: 25june16/HVariedData/Increasing/001Minc.png used on in
-put line 175.
+put line 174.
 (pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
 
-<25june16/HVariedData/Pictures/001Inc1.png, id=410, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/001Inc1.png, id=403, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/001Inc1.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/001Inc1.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/001Inc1.png used on inpu
-t line 179.
+t line 178.
 (pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
 
-<25june16/HVariedData/Pictures/001Inc106.png, id=411, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/001Inc106.png, id=404, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/001Inc106.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/001Inc106.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/001Inc106.png used on in
-put line 180.
+put line 179.
 (pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
 
-<25june16/HVariedData/Pictures/001Inc122.png, id=412, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/001Inc122.png, id=405, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/001Inc122.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/001Inc122.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/001Inc122.png used on in
-put line 181.
+put line 180.
 (pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
 
-<25june16/HVariedData/Pictures/001Inc151.png, id=413, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/001Inc151.png, id=406, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/001Inc151.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/001Inc151.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/001Inc151.png used on in
-put line 182.
+put line 181.
 (pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
 
-<25june16/HVariedData/Pictures/001Inc30S.png, id=414, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/001Inc30S.png, id=407, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/001Inc30S.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/001Inc30S.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/001Inc30S.png used on in
-put line 183.
+put line 182.
 (pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
 
-<25june16/HVariedData/Pictures/001Inc35S.png, id=415, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/001Inc35S.png, id=408, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/001Inc35S.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/001Inc35S.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/001Inc35S.png used on in
-put line 184.
+put line 183.
 (pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
  [16
 
@@ -1763,230 +1763,232 @@ Data/Pictures/001Inc1.png (PNG copy)> <./25june16/HVariedData/Pictures/001Inc10
 /25june16/HVariedData/Pictures/001Inc151.png (PNG copy)> <./25june16/HVariedDat
 a/Pictures/001Inc30S.png (PNG copy)> <./25june16/HVariedData/Pictures/001Inc35S
 .png (PNG copy)>]
-<25june16/HVariedData/Decreasing/001Edec.png, id=437, 642.4pt x 481.8pt>
+<25june16/HVariedData/Decreasing/001Edec.png, id=431, 642.4pt x 481.8pt>
 File: 25june16/HVariedData/Decreasing/001Edec.png Graphic file (type png)
 
 <use 25june16/HVariedData/Decreasing/001Edec.png>
 Package pdftex.def Info: 25june16/HVariedData/Decreasing/001Edec.png used on in
-put line 200.
+put line 199.
 (pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
 
-<25june16/HVariedData/Decreasing/001Mdec.png, id=438, 642.4pt x 481.8pt>
+<25june16/HVariedData/Decreasing/001Mdec.png, id=432, 642.4pt x 481.8pt>
 File: 25june16/HVariedData/Decreasing/001Mdec.png Graphic file (type png)
 
 <use 25june16/HVariedData/Decreasing/001Mdec.png>
 Package pdftex.def Info: 25june16/HVariedData/Decreasing/001Mdec.png used on in
-put line 201.
+put line 200.
 (pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
 
-<25june16/HVariedData/Pictures/001Dec1.png, id=439, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/001Dec1.png, id=433, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/001Dec1.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/001Dec1.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/001Dec1.png used on inpu
-t line 205.
+t line 204.
 (pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
 
-<25june16/HVariedData/Pictures/001Dec84.png, id=440, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/001Dec84.png, id=434, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/001Dec84.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/001Dec84.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/001Dec84.png used on inp
-ut line 206.
+ut line 205.
 (pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
 
-<25june16/HVariedData/Pictures/001Dec86.png, id=441, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/001Dec86.png, id=435, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/001Dec86.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/001Dec86.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/001Dec86.png used on inp
-ut line 207.
+ut line 206.
 (pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
 
-<25june16/HVariedData/Pictures/001Dec216.png, id=442, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/001Dec216.png, id=436, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/001Dec216.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/001Dec216.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/001Dec216.png used on in
-put line 208.
+put line 207.
 (pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
 
-<25june16/HVariedData/compoundEM/001Ecompound.png, id=443, 642.4pt x 481.8pt>
+<25june16/HVariedData/compoundEM/001Ecompound.png, id=437, 642.4pt x 481.8pt>
 File: 25june16/HVariedData/compoundEM/001Ecompound.png Graphic file (type png)
 
 <use 25june16/HVariedData/compoundEM/001Ecompound.png>
 Package pdftex.def Info: 25june16/HVariedData/compoundEM/001Ecompound.png used 
-on input line 214.
+on input line 213.
 (pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
 
-<25june16/HVariedData/compoundEM/001Mcompound.png, id=444, 642.4pt x 481.8pt>
+<25june16/HVariedData/compoundEM/001Mcompound.png, id=438, 642.4pt x 481.8pt>
 File: 25june16/HVariedData/compoundEM/001Mcompound.png Graphic file (type png)
 
 <use 25june16/HVariedData/compoundEM/001Mcompound.png>
 Package pdftex.def Info: 25june16/HVariedData/compoundEM/001Mcompound.png used 
-on input line 215.
+on input line 214.
 (pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
  [20
 
  <./25june16/HVariedData/Decreasing/001Edec.png> <./25june16/HVariedData/Decrea
-sing/001Mdec.png> <./25june16/HVariedData/Pictures/001Dec1.png (PNG copy)> <./2
-5june16/HVariedData/Pictures/001Dec84.png (PNG copy)> <./25june16/HVariedData/P
-ictures/001Dec86.png (PNG copy)> <./25june16/HVariedData/Pictures/001Dec216.png
- (PNG copy)>]
-[21 <./25june16/HVariedData/compoundEM/001Ecompound.png> <./25june16/HVariedDat
+sing/001Mdec.png>]
+[21 <./25june16/HVariedData/Pictures/001Dec1.png (PNG copy)> <./25june16/HVarie
+dData/Pictures/001Dec84.png (PNG copy)> <./25june16/HVariedData/Pictures/001Dec
+86.png (PNG copy)> <./25june16/HVariedData/Pictures/001Dec216.png (PNG copy)>]
+[22 <./25june16/HVariedData/compoundEM/001Ecompound.png> <./25june16/HVariedDat
 a/compoundEM/001Mcompound.png>]
-<25june16/HVariedData/Increasing/011Einc.png, id=455, 642.4pt x 481.8pt>
+<25june16/HVariedData/Increasing/011Einc.png, id=454, 642.4pt x 481.8pt>
 File: 25june16/HVariedData/Increasing/011Einc.png Graphic file (type png)
 
 <use 25june16/HVariedData/Increasing/011Einc.png>
 Package pdftex.def Info: 25june16/HVariedData/Increasing/011Einc.png used on in
-put line 233.
+put line 231.
 (pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
 
-<25june16/HVariedData/Increasing/011Minc.png, id=456, 642.4pt x 481.8pt>
+<25june16/HVariedData/Increasing/011Minc.png, id=455, 642.4pt x 481.8pt>
 File: 25june16/HVariedData/Increasing/011Minc.png Graphic file (type png)
 
 <use 25june16/HVariedData/Increasing/011Minc.png>
 Package pdftex.def Info: 25june16/HVariedData/Increasing/011Minc.png used on in
-put line 234.
+put line 232.
 (pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
 
-<25june16/HVariedData/Pictures/011Inc1.png, id=457, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/011Inc1.png, id=456, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/011Inc1.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/011Inc1.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/011Inc1.png used on inpu
-t line 238.
+t line 236.
 (pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
 
-<25june16/HVariedData/Pictures/011Inc67.png, id=458, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/011Inc67.png, id=457, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/011Inc67.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/011Inc67.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/011Inc67.png used on inp
-ut line 239.
+ut line 237.
 (pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
 
-<25june16/HVariedData/Pictures/011Inc82.png, id=459, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/011Inc82.png, id=458, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/011Inc82.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/011Inc82.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/011Inc82.png used on inp
-ut line 240.
+ut line 238.
 (pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
 
-<25june16/HVariedData/Pictures/011Inc94.png, id=460, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/011Inc94.png, id=459, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/011Inc94.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/011Inc94.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/011Inc94.png used on inp
-ut line 241.
+ut line 239.
 (pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
 
-<25june16/HVariedData/Pictures/011Inc26S.png, id=461, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/011Inc26S.png, id=460, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/011Inc26S.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/011Inc26S.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/011Inc26S.png used on in
-put line 242.
+put line 240.
 (pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
 
-<25june16/HVariedData/Pictures/011Inc39S.png, id=462, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/011Inc39S.png, id=461, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/011Inc39S.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/011Inc39S.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/011Inc39S.png used on in
-put line 243.
+put line 241.
 (pdftex.def)             Requested size: 108.40584pt x 108.40584pt.
- [22
+ [23
 
  <./25june16/HVariedData/Increasing/011Einc.png> <./25june16/HVariedData/Increa
-sing/011Minc.png> <./25june16/HVariedData/Pictures/011Inc1.png (PNG copy)> <./2
-5june16/HVariedData/Pictures/011Inc67.png (PNG copy)> <./25june16/HVariedData/P
-ictures/011Inc82.png (PNG copy)> <./25june16/HVariedData/Pictures/011Inc94.png 
-(PNG copy)> <./25june16/HVariedData/Pictures/011Inc26S.png (PNG copy)> <./25jun
-e16/HVariedData/Pictures/011Inc39S.png (PNG copy)>]
-<25june16/HVariedData/Decreasing/011Edec.png, id=470, 642.4pt x 481.8pt>
+sing/011Minc.png>]
+[24 <./25june16/HVariedData/Pictures/011Inc1.png (PNG copy)> <./25june16/HVarie
+dData/Pictures/011Inc67.png (PNG copy)> <./25june16/HVariedData/Pictures/011Inc
+82.png (PNG copy)> <./25june16/HVariedData/Pictures/011Inc94.png (PNG copy)> <.
+/25june16/HVariedData/Pictures/011Inc26S.png (PNG copy)> <./25june16/HVariedDat
+a/Pictures/011Inc39S.png (PNG copy)>]
+<25june16/HVariedData/Decreasing/011Edec.png, id=473, 642.4pt x 481.8pt>
 File: 25june16/HVariedData/Decreasing/011Edec.png Graphic file (type png)
 
 <use 25june16/HVariedData/Decreasing/011Edec.png>
 Package pdftex.def Info: 25june16/HVariedData/Decreasing/011Edec.png used on in
-put line 257.
+put line 256.
 (pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
 
-<25june16/HVariedData/Decreasing/011Mdec.png, id=471, 642.4pt x 481.8pt>
+<25june16/HVariedData/Decreasing/011Mdec.png, id=474, 642.4pt x 481.8pt>
 File: 25june16/HVariedData/Decreasing/011Mdec.png Graphic file (type png)
 
 <use 25june16/HVariedData/Decreasing/011Mdec.png>
 Package pdftex.def Info: 25june16/HVariedData/Decreasing/011Mdec.png used on in
-put line 258.
+put line 257.
 (pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
 
-<25june16/HVariedData/Pictures/011Dec1.png, id=472, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/011Dec1.png, id=475, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/011Dec1.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/011Dec1.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/011Dec1.png used on inpu
-t line 262.
+t line 261.
 (pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
 
-<25june16/HVariedData/Pictures/011Dec82.png, id=473, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/011Dec82.png, id=476, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/011Dec82.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/011Dec82.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/011Dec82.png used on inp
-ut line 263.
+ut line 262.
 (pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
 
-<25june16/HVariedData/Pictures/011Dec122.png, id=474, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/011Dec122.png, id=477, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/011Dec122.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/011Dec122.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/011Dec122.png used on in
-put line 264.
+put line 263.
 (pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
 
-<25june16/HVariedData/Pictures/011Dec216.png, id=475, 361.35pt x 361.35pt>
+<25june16/HVariedData/Pictures/011Dec216.png, id=478, 361.35pt x 361.35pt>
 File: 25june16/HVariedData/Pictures/011Dec216.png Graphic file (type png)
 
 <use 25june16/HVariedData/Pictures/011Dec216.png>
 Package pdftex.def Info: 25june16/HVariedData/Pictures/011Dec216.png used on in
-put line 265.
+put line 264.
 (pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
 
-<25june16/HVariedData/Increasing/IncreasingField.png, id=476, 642.4pt x 481.8pt
+<25june16/HVariedData/Increasing/IncreasingField.png, id=479, 642.4pt x 481.8pt
 >
 File: 25june16/HVariedData/Increasing/IncreasingField.png Graphic file (type pn
 g)
  <use 25june16/HVariedData/Increasing/IncreasingField.png>
 Package pdftex.def Info: 25june16/HVariedData/Increasing/IncreasingField.png us
-ed on input line 276.
+ed on input line 272.
 (pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
- [23
+ [25
 
  <./25june16/HVariedData/Decreasing/011Edec.png> <./25june16/HVariedData/Decrea
 sing/011Mdec.png> <./25june16/HVariedData/Pictures/011Dec1.png (PNG copy)> <./2
 5june16/HVariedData/Pictures/011Dec82.png (PNG copy)> <./25june16/HVariedData/P
 ictures/011Dec122.png (PNG copy)> <./25june16/HVariedData/Pictures/011Dec216.pn
 g (PNG copy)>]
-[24 <./25june16/HVariedData/Increasing/IncreasingField.png>]
-<img/predegaussed.png, id=486, 529.98pt x 338.26375pt>
+[26 <./25june16/HVariedData/Increasing/IncreasingField.png>]
+<img/predegaussed.png, id=490, 529.98pt x 338.26375pt>
 File: img/predegaussed.png Graphic file (type png)
 
 <use img/predegaussed.png>
-Package pdftex.def Info: img/predegaussed.png used on input line 285.
-(pdftex.def)             Requested size: 317.99043pt x 202.95981pt.
+Package pdftex.def Info: img/predegaussed.png used on input line 283.
+(pdftex.def)             Requested size: 370.98346pt x 236.78299pt.
+ [27
 
-<img/postdegaussed.png, id=487, 522.95375pt x 333.245pt>
+ <./img/predegaussed.png (PNG copy)>]
+<img/postdegaussed.png, id=496, 522.95375pt x 333.245pt>
 File: img/postdegaussed.png Graphic file (type png)
 
 <use img/postdegaussed.png>
-Package pdftex.def Info: img/postdegaussed.png used on input line 291.
+Package pdftex.def Info: img/postdegaussed.png used on input line 294.
 (pdftex.def)             Requested size: 313.77466pt x 199.94853pt.
-) (./extra_spectra.tex [25
+) (./extra_spectra.tex [28
 
- <./img/predegaussed.png (PNG copy)>] [26 <./img/postdegaussed.png (PNG copy)>]
-
+ <./img/postdegaussed.png (PNG copy)>]
 Appendix A.
 )
 No file Memorial_University_thesis_one_bibliography.bbl.
@@ -1996,7 +1998,7 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
-[27
+[29
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
@@ -2010,13 +2012,16 @@ out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
  ) 
 Here is how much of TeX's memory you used:
- 31067 strings out of 494367
- 568056 string characters out of 6171616
- 649829 words of memory out of 5000000
- 33736 multiletter control sequences out of 15000+600000
+ 31072 strings out of 494367
+ 568136 string characters out of 6171616
+ 650168 words of memory out of 5000000
+ 33740 multiletter control sequences out of 15000+600000
  63362 words of font info for 50 fonts, out of 8000000 for 9000
  475 hyphenation exceptions out of 8191
  46i,13n,44p,10394b,890s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2030,11 +2035,11 @@ s/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Memorial_University_thesis_one_bibliography.pdf (37 pages, 12
-14392 bytes).
+Output written on Memorial_University_thesis_one_bibliography.pdf (38 pages, 12
+15678 bytes).
 PDF statistics:
- 568 PDF objects out of 1000 (max. 8388607)
- 462 compressed objects within 5 object streams
- 107 named destinations out of 1000 (max. 500000)
+ 573 PDF objects out of 1000 (max. 8388607)
+ 466 compressed objects within 5 object streams
+ 108 named destinations out of 1000 (max. 500000)
  503 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -3,8 +3,8 @@
 \contentsline {chapter}{Acknowledgments}{\textlatin {iii}}{chapter*.2}
 \contentsline {chapter}{Table of Contents}{\textlatin {v}}{chapter*.3}
 \contentsline {chapter}{List of Tables}{\textlatin {vi}}{chapter*.4}
-\contentsline {chapter}{List of Figures}{\textlatin {ix}}{chapter*.5}
-\contentsline {chapter}{List of Abbreviations and Symbols}{\textlatin {ix}}{chapter*.5}
+\contentsline {chapter}{List of Figures}{\textlatin {viii}}{chapter*.5}
+\contentsline {chapter}{List of Abbreviations and Symbols}{\textlatin {viii}}{chapter*.5}
 \contentsline {chapter}{\numberline {1}Introduction (can be a more descriptive title)}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}A section}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}A subsection about getting organized}{1}{subsection.1.1.1}
@@ -27,13 +27,13 @@
 \contentsline {paragraph}{\relax \fontsize {14.4}{18}\selectfont }{18}{section*.7}
 \contentsline {subsubsection}{\numberline {3.3.2.2}(001) Decreasing Field}{20}{subsubsection.3.3.2.2}
 \contentsline {paragraph}{\relax \fontsize {14.4}{18}\selectfont }{20}{section*.8}
-\contentsline {subsection}{\numberline {3.3.3}Degaussing Along a Cube Face}{22}{subsection.3.3.3}
-\contentsline {subsubsection}{\numberline {3.3.3.1}(011) Increasing Field}{22}{subsubsection.3.3.3.1}
-\contentsline {paragraph}{\relax \fontsize {14.4}{18}\selectfont }{22}{section*.9}
-\contentsline {subsubsection}{\numberline {3.3.3.2}(011) Decreasing Field}{23}{subsubsection.3.3.3.2}
-\contentsline {paragraph}{\relax \fontsize {14.4}{18}\selectfont }{23}{section*.10}
-\contentsline {subsection}{\numberline {3.3.4}Saturation of the Lattice}{24}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Reduction of the Ground State Degeneracy via Application of an External Magnetic Field}{25}{subsection.3.3.5}
-\contentsline {chapter}{\numberline {A}Extra spectra}{27}{appendix.A}
-\contentsline {section}{\numberline {A.1}What should go in an appendix?}{27}{section.A.1}
-\contentsline {chapter}{Bibliography}{27}{section.A.1}
+\contentsline {subsection}{\numberline {3.3.3}Degaussing Along a Cube Face}{23}{subsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3.1}(011) Increasing Field}{23}{subsubsection.3.3.3.1}
+\contentsline {paragraph}{\relax \fontsize {14.4}{18}\selectfont }{23}{section*.9}
+\contentsline {subsubsection}{\numberline {3.3.3.2}(011) Decreasing Field}{25}{subsubsection.3.3.3.2}
+\contentsline {paragraph}{\relax \fontsize {14.4}{18}\selectfont }{25}{section*.10}
+\contentsline {subsection}{\numberline {3.3.4}Saturation of the Lattice}{26}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Reduction of the Ground State Degeneracy via Application of an External Magnetic Field}{27}{subsection.3.3.5}
+\contentsline {chapter}{\numberline {A}Extra spectra}{29}{appendix.A}
+\contentsline {section}{\numberline {A.1}What should go in an appendix?}{29}{section.A.1}
+\contentsline {chapter}{Bibliography}{29}{section.A.1}

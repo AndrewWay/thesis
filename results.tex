@@ -138,6 +138,7 @@ The thin strip of blue that cuts into the contour plot just above the complex re
 The spin configurations that are planar can therefore be described in terms of one parameter, $\gamma$, the polar equations which determine $\theta$ and $\phi$, and the original set of equations.  
 
 \begin{figure}[h]
+\centering
 \includegraphics[width=.5\linewidth]{img/groundstatevol_withplanarborder.png} 
     \caption{Contour plot of parallelepiped volume with the perimeter of a circle shown in green.} 
 \end{figure}
@@ -147,11 +148,11 @@ The spin configurations that are planar can therefore be described in terms of o
 
 \section{3D Dipolar Kagome Magnetic Field EFM Results}
 
-In this section results on application of an external magnetic field on the dipolar kagome lattice are presented. EFM simulations revealed how a sufficiently large external magnetic field caused the spin configuration to transition from a non-planar state to a planar state. Following this transition, the spins underwent a linear change in orientation with respect to magnetic field magnitude by reorienting in the direction of the magnetic field. Following degaussing, the spins unaligned with the magnetic field and form a planar state at zero magnetic field magnitude, regardless of whether the state was initially non-planar. In essence, when degaussing with a sufficiently high peak magnetic field magnitude, any minimum-energy state was transformed into a planar state. Finally, with sufficiently high magnetic field magnitude, the lattice became saturated and the rate at which the spins reoriented themselves along the direction of the magnetic field was reduced. 
+In this section results on the application of an external magnetic field on the dipolar kagome lattice are presented. EFM simulations revealed how a sufficiently large external magnetic field caused the spin configuration to transition from a non-planar state to a planar state. Following this transition, the spins underwent a linear change in orientation with respect to the magnetic field magnitude by reorienting in the direction of the magnetic field. Following degaussing, the spins unaligned with the magnetic field and formed a planar state at zero magnetic field magnitude, regardless of whether the state was initially non-planar. In essence, when degaussing with a sufficiently high peak magnetic field magnitude, every minimum-energy state was transformed into a planar minimum-energy state. Finally, with sufficiently high magnetic field magnitude, the lattice became saturated and the rate at which the spins reoriented themselves along the direction of the magnetic field was reduced. 
 
 \subsection{Magnetic Phases}
 
-The magnetization as a function of magnetic field magnitude of the 3D kagome lattice had several distinct phases of change. In figure \ref{fig:magphase}, the magnetization lingered close to zero at low magnetic field magnitude. A sudden change in magnetization occured for all non-planar states, after which a planar state was formed. A linear change in magnetization was observed after this critical field magnitude, until the lattice became saturated and the magnetization nearly plateaued.
+The magnetization as a function of magnetic field magnitude of the 3D kagome lattice had several distinct phases of change. In figure \ref{fig:magphase}, the magnetization lingered close to zero at low magnetic field magnitude. At some critical magnetic field magnitude, a sudden change in magnetization occured for all non-planar states after which a planar state was formed. A linear change in magnetization was observed after this critical field magnitude, until the lattice became saturated and the magnetization nearly plateaued. 
 
 \begin{figure}
 \includegraphics[scale=0.7]{img/magneticphases.png}
@@ -165,10 +166,8 @@ The magnetization as a function of magnetic field magnitude of the 3D kagome lat
 %theta=0.206275 phi=3.11867 for starting state
 \paragraph
 \large
-The 6 spins begin to transition to the planar state at H=0.0105 and achieves the planar state at H=0.0121.
-The pink and brown spins swap positions, as do the blue and purple spins, as the field is increased beyond the planar state. 
-The spins gradually align with the 001 field direction, until approximately at 0.14 the lattice becomes saturated and
-the red and green and spins become parallel to the field direction. 
+Using the state corresponding to theta=0.206275 and phi=3.11867, the effect of an magnetic field along the 001 cube axis was observed. The spin configuration begin to transition to a planar configuration at a magnetic field magniutde of 0.0105 and achieved the planar state at a magnetic field magnitude of 0.0121 as shown in fig. \ref{fig:001vecs}.
+The pink and brown spins swap positions, as do the blue and purple spins, as the field is increased beyond the planar state. The spins gradually align with the 001 field direction, until approximately at 0.14 the lattice becomes saturated and the red and green and spins become parallel to the field direction. 
 \begin{figure}[ht]
 \centering
 \includegraphics[scale=0.3]{25june16/HVariedData/Increasing/001Einc.png}
@@ -182,9 +181,10 @@ the red and green and spins become parallel to the field direction.
 \includegraphics[scale=0.3]{25june16/HVariedData/Pictures/001Inc151.png}
 \includegraphics[scale=0.3]{25june16/HVariedData/Pictures/001Inc30S.png}
 \includegraphics[scale=0.3]{25june16/HVariedData/Pictures/001Inc35S.png}
+\label{fig:001vecs}
+%TODO: Add axis labels
 \caption{Snap shots of the 6 characteristic spins at H=0, 0.0105, 0.0121, 0.0150, 0.131, 0.151. The black arrow
-indicates the direction of the field. In the dot product graph, AB dot product goes to zero once the lattice 
-is saturated. This agrees with A and B (red and green) lining up in the above snapshots.}
+indicates the direction of the field.}
 \end{figure}
 \clearpage
 
@@ -192,9 +192,8 @@ is saturated. This agrees with A and B (red and green) lining up in the above sn
 %theta=0.206275 phi=3.11867 for starting state. Even for decreasing field??
 \paragraph
 \large
-The lattice leaves the saturated state at a field lower than what was required to induce it while increasing the field.
-This transition from saturation occurs at approximately H=0.13, compared to the transition to saturation at H=0.14 when increasing the field. %Description here
-The spins gradually unalign and rest in a planar state at zero field, and is characterized by the groundstate angles theta=89.9 degrees and phi=44.94 degrees.
+Once the lattice was saturated, the magnetic field was reduced to zero. The lattice left the saturated state at a field lower than what was required to induce it while increasing the field. The transition from saturation occured at approximately H=0.13, compared to the transition to saturation at H=0.14 when the field was decreased. 
+The spins gradually unaligned and rested in a planar state at zero field, and was characterized by the groundstate angles theta=1.569051 and phi=0.78435097.
 \begin{figure}[ht]
 \centering
 \includegraphics[scale=0.3]{25june16/HVariedData/Decreasing/001Edec.png}
@@ -215,17 +214,16 @@ The spins gradually unalign and rest in a planar state at zero field, and is cha
 \includegraphics[scale=0.5]{25june16/HVariedData/compoundEM/001Mcompound.png}
 \caption{Composite graphs of energy and magnetization for both decreasing and increasing field magnitude. Note the
 different scales for the energy and magnetization graph. This is because plotting energy vs field on a graph
-which has an xrange of 0.2 reduces the ability to see any difference in the energy curves. This was done for all 
-composite graphs.}
+which has an xrange of 0.2 reduces the ability to see any difference in the energy curves.}
 \end{figure}
 \clearpage
 \subsection{Degaussing Along a Cube Face}
 \subsubsection{(011) Increasing Field}
 \paragraph
 \large
-The lattice begins to transition at approximately 0.007. At 0.0074 the planar state is achieved. At 0.0093, the 
-pink and red spins swap position, and the blue and green spins swap position. As the field is increased further to 0.0115,
-the green and brown spins begin to swap positions. At 0.143, this is achieved. Once saturated, no spins are parallel
+Using the state corresponding to theta=0.206275 and phi=3.11867, the effect of a magnetic field along the 011 cube face was observed. The lattice began to transition at an approximate magnetic field magnitude of 0.007. At a magnitude of 0.0074 the planar state was achieved. At 0.0093, the 
+pink and red spins swapped position, and the blue and green spins swapped position as shown in \ref{fig:011vecs}. As the field was increased further to a magnitude of 0.0115,
+the green and brown spins began to swap positions. At 0.143, this interchanging of spin positions was achieved. Once saturated, no spins was parallel
 with the field direction.%Description here
 
 \begin{figure}[ht]
@@ -241,6 +239,7 @@ with the field direction.%Description here
 \includegraphics[scale=0.3]{25june16/HVariedData/Pictures/011Inc94.png}
 \includegraphics[scale=0.3]{25june16/HVariedData/Pictures/011Inc26S.png}
 \includegraphics[scale=0.3]{25june16/HVariedData/Pictures/011Inc39S.png}
+\label{fig:011vecs}
 \caption{Snapshots at H=0, 0.0066, 0.0082, 0.0094, 0.115, 0.167}
 \end{figure}
 
@@ -249,8 +248,8 @@ with the field direction.%Description here
 \subsubsection{(011) Decreasing Field}
 \paragraph
 \large
-As the field is decreased to 0.134, the brown and green spins swap positions again. All 6 spins gradually unalign
-with the field until they reach a zero field planar state characterized by angles theta=69.33 degrees and phi=-139.133 degrees.%Description here
+As the field for the saturated lattice was decreased to a magnitude of 0.134, the brown and green spins swapped positions again. All 6 spins gradually unaligned
+with the field until they reached a zero field planar state characterized by angles theta=1.2100368 and phi=-2.428328948.%Description here
 
 \begin{figure}[ht]
 \centering
@@ -267,10 +266,7 @@ with the field until they reach a zero field planar state characterized by angle
 \end{figure}
 
 \subsection{Saturation of the Lattice}
-Using the same groundstate as used in all simulations, 7 simulations were run with differing field directions. The 
-field was increased up until saturating the lattice. 001 and 010 both have identical magnetization curves, as do
-011 and 101. However, 100 differs from 001 and 010, and 110 differs from 011 and 101, which is unexpected. When using
-the 111 field direction, saturation occurs at a field that is higher than the saturation fields of any other simulations. 
+Using the spin configuration corresponding to theta=0.206275 and phi=3.11867, 7 simulations were run with differing field directions. The field was increased up until saturating the lattice. 001 and 010 both have identical magnetization curves, as do 011 and 101. However, 100 differs from 001 and 010, and 110 differs from 011 and 101, which is unexpected. When using the 111 field direction, saturation occurs at a field that is higher than the saturation fields of any other simulations. 
 \begin{figure}[ht]
  \centering
  \includegraphics[scale=0.6]{25june16/HVariedData/Increasing/IncreasingField.png}
@@ -280,14 +276,22 @@ the 111 field direction, saturation occurs at a field that is higher than the sa
 
 \subsection{Reduction of the Ground State Degeneracy via Application of an External Magnetic Field}
 
+The most notable result of degaussing the 3D FCC Kagome lattice with only dipolar interactions is that all possible ground states can be transformed into planar states. 26 different ground states were generated as shown in fig \ref{fig:groundstatearray}. Each of these states were degaussed with a field along the 111 direction.
+
 \begin{figure}[ht]
  \centering
- \includegraphics[scale=0.6]{img/predegaussed.png}
+ \includegraphics[scale=0.7]{img/predegaussed.png}
+ \label{fig:groundstatearray}
  \caption{The ground state plane with an array of points selected to generate the starting states for independent degaussing simulations.}
 \end{figure}
+\clearpage
+%TODO Rerun this with L12. This is just L2
+
+The result of these simulations is summarized in fig. \ref{fig:postdegaussedarray}. 24 of the initial states rested in the final state corresponding to theta=1.9486 and phi=0.697303, while only 2 rested in the final state corresponding to theta=1.58175 and phi=0.778825. Both of these states were planar. 
 
 \begin{figure}[ht]
  \centering
  \includegraphics[scale=0.6]{img/postdegaussed.png}
+ \label{fig:postdegaussedarray}
  \caption{The final states following degaussing. All states are within the planar region of the plane.}
 \end{figure}
